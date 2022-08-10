@@ -156,10 +156,34 @@
     "version": "1.3.7862.41411"
   },
   {
+    "author": "Runne Latki",
+    "name": "Rabbie The Moonrabbit race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki and  XeoNovaDan",
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
     "version": "1.0.5.0"
+  },
+  {
+    "author": "Argón",
+    "name": "Expanded Materials - Metals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Trunken",
+    "name": "Vanilla Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Argón",
+    "name": "Expanded Materials - Plastics",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Krkr",
@@ -420,12 +444,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Trunken",
-    "name": "Vanilla Apparel Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "Vanilla Animals Expanded — Tundra",
     "steamId": null,
@@ -544,12 +562,6 @@
     "name": "Character Editor",
     "steamId": "1874644848",
     "version": "1.3.842.0"
-  },
-  {
-    "author": "Hatti",
-    "name": "CleaningArea",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "CrashM",
@@ -1062,12 +1074,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms",
-    "steamId": "927155256",
-    "version": "1.4.6.0"
-  },
-  {
     "author": "Uuugggg",
     "name": "Smart Medicine",
     "steamId": "1309994319",
@@ -1368,6 +1374,18 @@
     "version": null
   },
   {
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "2633514537",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Chains: Lumber",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sky",
     "name": "Deep Storage Plus (Continued)",
     "steamId": "2589072911",
@@ -1402,5 +1420,275 @@
     "name": "Weapon Racks",
     "steamId": "2788630748",
     "version": "1.1.1.0"
+  },
+  {
+    "author": "Denethor",
+    "name": "Gain Skill Passions",
+    "steamId": "2072521087",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "InfinitySamurai",
+    "name": "RimConnect",
+    "steamId": "1880784338",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Orpheusly",
+    "name": "Rimsential - Homebound",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "[RF] Concrete (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Manual",
+    "name": "Concrete for VFE - Architect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "MoHAR framework",
+    "steamId": "2057001924",
+    "version": "1.0.7875.31864"
+  },
+  {
+    "author": "Nemonian",
+    "name": "Moyo-From the depth",
+    "steamId": "2182305386",
+    "version": "1.3.4.1"
+  },
+  {
+    "author": "Vazrua",
+    "name": "Dragonian Prime Race2.0",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Outremer",
+    "name": "Epona race Renaissance",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ssulunge",
+    "name": "FemaleBB BodyType Support",
+    "steamId": "1792668502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "Ferian Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rainbeau Flambe and Jamaican Castle",
+    "name": "Fertile Fields [1.1]",
+    "steamId": "2012735237",
+    "version": "1.0.7925.6195"
+  },
+  {
+    "author": "SalmonToastie",
+    "name": "Forgotten Realms - Gates",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ArmoredAmpharos",
+    "name": "Foxbold Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ArmoredAmpharos",
+    "name": "Frilleum Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zayl",
+    "name": "FrostyDragonRace",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dango",
+    "name": "Hardworking Nukos/Insect Girls",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "lolidrop",
+    "name": "[L] House Maid Nukos",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TrahsPanda and Hyo",
+    "name": "Hyo's Zoroark Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ssulunge",
+    "name": "Kijin Race 2.0",
+    "steamId": "1918120749",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "VAMV",
+    "name": "Maru Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Razar1",
+    "name": "Monstergirl Races",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Waffel F.",
+    "name": "Moosesian race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ShauaPuta",
+    "name": "Pawnbold Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spanky_H",
+    "name": "Bun Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xen",
+    "name": "Racc Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AhnDemi",
+    "name": "Race sleep face addon 1.3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ILuvSilicon",
+    "name": "ShadowRimRaces",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Chains: Leather",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Chains: Steel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MysticFelines",
+    "name": "Simple Chains Textures Enhanced",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MysticFelines",
+    "name": "Simple Chains Traders Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kerevan",
+    "name": "The Drow Race Continued",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oreno",
+    "name": "VFE Farming - Fertile Fields",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "大鳥",
+    "name": "虫娘 Insect Girls",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "Coal Expanded (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Argón",
+    "name": "Expanded Materials Add-On - Minimalist Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Metallic Batteries",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Unon",
+    "name": "No Burn Metal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Small Solar Panels",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Phomor",
+    "name": "Crafting Quality Rebalanced",
+    "steamId": "1542004942",
+    "version": "1.0.0"
+  },
+  {
+    "author": "JisPichi",
+    "name": "Adjacent Light",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Research Tree",
+    "steamId": "2608058938",
+    "version": "3.17.533"
   }
 ]

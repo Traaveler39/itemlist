@@ -174,7 +174,7 @@
     },
     "description": null,
     "name": "Purchase list",
-    "usage": "!purchaselist",
+    "usage": "!pl",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "PurchaseList"
@@ -232,6 +232,24 @@
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "LevelSkillShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": null,
+    "name": "Mod settings",
+    "usage": "!modsettings",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "ModSettings"
   },
   {
     "data": {
@@ -353,24 +371,6 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Revive all",
-    "usage": "!reviveall",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "ReviveAllShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
     "name": "Revive me",
     "usage": "!reviveme",
     "userLevel": "Anyone",
@@ -394,24 +394,6 @@
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "HealMeShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Healall",
-    "usage": "!healall",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "HealAllShortcut"
   },
   {
     "data": {
@@ -1114,6 +1096,24 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "UnstickMe"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Unknown"
+    },
+    "description": null,
+    "name": null,
+    "usage": "!mods",
+    "userLevel": "Moderator",
+    "shortcut": false,
+    "defName": "!mods"
   },
   {
     "data": {

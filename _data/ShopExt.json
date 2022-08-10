@@ -436,9 +436,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -454,8 +454,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2500,
-      "removePrice": 200,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -466,9 +466,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -484,8 +484,8 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2500,
-      "removePrice": 200,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -496,9 +496,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -514,8 +514,8 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2500,
-      "removePrice": 200,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -54723,7 +54723,7 @@
       "degree": 4
     },
     {
-      "description": "text.todo",
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
       "stats": [
 
       ],
@@ -60665,6 +60665,576 @@
       "addPrice": 2500,
       "removePrice": 200,
       "degree": 0
+    },
+    {
+      "description": "Timmy's faith is firm. It allows him to move under any circumstances.",
+      "stats": [
+        "+10% pain shock threshold",
+        "-15% mental break threshold"
+      ],
+      "conflicts": [
+        "carefulshooter",
+        "trigger-happy",
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "NewRatkinPlus",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "carefulshooter",
+          "trigger-happy",
+          "wimp"
+        ],
+        "stats": [
+          "+10% pain shock threshold",
+          "-15% mental break threshold"
+        ]
+      },
+      "defName": "Faith",
+      "name": "faith",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has spent time learning and practicing the tribal rituals required to link oneself to an Anima tree. he has long since been enamoured by the wonders of nature.",
+      "stats": [
+        "Artistic meditation focus type disabled.",
+        "Natural meditation focus type allowed.",
+        "+2 plants",
+        "+20% psychic sensitivity",
+        "-5% mental break threshold",
+        "x120% neural heat recovery rate",
+        "x110% neural heat limit",
+        "x90% neural heat gain"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dragonian Prime Race2.0",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Artistic meditation focus type disabled.",
+          "Natural meditation focus type allowed.",
+          "+2 plants",
+          "+20% psychic sensitivity",
+          "-5% mental break threshold",
+          "x120% neural heat recovery rate",
+          "x110% neural heat limit",
+          "x90% neural heat gain"
+        ]
+      },
+      "defName": "DR_Attuned",
+      "name": "attuned",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is gives a strange impression to the opponent.",
+      "stats": [
+        "+2 social",
+        "-4% mental break threshold",
+        "+15.00% train animal chance",
+        "+15.00% tame animal chance",
+        "+15.00% trade price improvement",
+        "+15.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Ferian Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 social",
+          "-4% mental break threshold",
+          "+15.00% train animal chance",
+          "+15.00% tame animal chance",
+          "+15.00% trade price improvement",
+          "+15.00% social impact"
+        ]
+      },
+      "defName": "Miraculous",
+      "name": "mysteriousenergy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Everything Timmy cooks turns into Dark matter.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kijin Race 2.0",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "IncompetentCook",
+      "name": "incompetentcook",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is the Maru. They feel the warmth, remind themselves that they are alive, and clear their minds.",
+      "stats": [
+        "Flame meditation focus type allowed."
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Flame meditation focus type allowed."
+        ]
+      },
+      "defName": "Maru_flameworship",
+      "name": "flameworship",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Any object, event, or technology has cause and effect.\nTimmy is very skilled at identifying and learning such causal relationships.",
+      "stats": [
+        "+25% global learning factor",
+        "+20% sell price multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+25% global learning factor",
+          "+20% sell price multiplier"
+        ]
+      },
+      "defName": "MRT_Eyetrait",
+      "name": "sharpeye",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy's body is naturally flexible.\nStronger and more flexible than others, it has a significant advantage in hunting.",
+      "stats": [
+        "+10.0 melee dodge chance",
+        "+0.20 move speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+10.0 melee dodge chance",
+          "+0.20 move speed"
+        ]
+      },
+      "defName": "MRT_Bodytrait",
+      "name": "flexible",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy believes that he is right.\nThe firm belief has a positive effect on his will, just like his piety, but he also tends to ignore the opinions of others.",
+      "stats": [
+        "-9% mental break threshold",
+        "+10% global work speed",
+        "+50% global certainty loss factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-9% mental break threshold",
+          "+10% global work speed",
+          "+50% global certainty loss factor"
+        ]
+      },
+      "defName": "MRT_Mentaltrait",
+      "name": "self-righteousness",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "A person with strong leadership always influences those around them, either positively or negatively.\nNo one knows what path such a person will choose or what kind of life he will lead. But one thing is certain, he won't be an ordinary person who comes and goes into the world without anyone knowing. /n/nTimmy was born with that gift.",
+      "stats": [
+        "-100% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-100% mental break threshold"
+        ]
+      },
+      "defName": "MRT_Mountaintrait",
+      "name": "leadership",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has ears that are sensitive to even small sounds.\n Being sensitive to sounds is always an advantage in life outside of its nest, but it also has the disadvantage of not being able to fall asleep deeply.",
+      "stats": [
+        "-20% rest rate multiplier",
+        "+8.0 melee dodge chance",
+        "+2.0 melee hit chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-20% rest rate multiplier",
+          "+8.0 melee dodge chance",
+          "+2.0 melee hit chance"
+        ]
+      },
+      "defName": "MRT_Eartrait",
+      "name": "sensitiveears",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is an experimentally cultivated Maru.\nIt has significantly superior physical abilities than other floors, but its autoimmunity is very low due to its imperfect design.",
+      "stats": [
+        "-16% immunity gain speed",
+        "+15.0 melee dodge chance",
+        "+0.60 move speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-16% immunity gain speed",
+          "+15.0 melee dodge chance",
+          "+0.60 move speed"
+        ]
+      },
+      "defName": "MRT_Prototype",
+      "name": "prototype",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "A fragment of a talent to accomplish a feat.",
+      "stats": [
+        "+75% global learning factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+75% global learning factor"
+        ]
+      },
+      "defName": "MRT_MountainA",
+      "name": "inquisitivemind",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "A fragment of a talent to accomplish a feat.",
+      "stats": [
+        "-14% mental break threshold",
+        "+40% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-14% mental break threshold",
+          "+40% global work speed"
+        ]
+      },
+      "defName": "MRT_MountainB",
+      "name": "senseofduty",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "A fragment of a talent to accomplish a feat.",
+      "stats": [
+        "+150.00% negotiation ability",
+        "+150.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+150.00% negotiation ability",
+          "+150.00% social impact"
+        ]
+      },
+      "defName": "MRT_MountainC",
+      "name": "philosophy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "A fragment of a talent to accomplish a feat.",
+      "stats": [
+        "-25% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-25% mental break threshold"
+        ]
+      },
+      "defName": "MRT_MountainD",
+      "name": "warp",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy came from an especially dangerous world and is conditioned to kill before he's killed. his accuracy is increased.",
+      "stats": [
+        "+4 shooting",
+        "+3.0 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler",
+        "gladiator"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "The Drow Race Continued",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brawler",
+          "gladiator"
+        ],
+        "stats": [
+          "+4 shooting",
+          "+3.0 shooting accuracy"
+        ]
+      },
+      "defName": "ShootingAccuracyDrow",
+      "name": "shoottokill",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has spent far too much time fighting to stay alive up close and personal. he knows how to make hits connect, and  how to avoid them.",
+      "stats": [
+        "+4 melee",
+        "+2.0 melee hit chance",
+        "+10.0 melee dodge chance"
+      ],
+      "conflicts": [
+        "wimp",
+        "shoottokill"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "The Drow Race Continued",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp",
+          "shoottokill"
+        ],
+        "stats": [
+          "+4 melee",
+          "+2.0 melee hit chance",
+          "+10.0 melee dodge chance"
+        ]
+      },
+      "defName": "BrawlerDrow",
+      "name": "gladiator",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -60786,7 +61356,7 @@
       "defName": "Android5Tier",
       "enabled": true,
       "name": "T5 Android",
-      "price": 13333
+      "price": 10000
     },
     {
       "data": {
@@ -60820,7 +61390,7 @@
       "defName": "Android4Tier",
       "enabled": true,
       "name": "T4 Android",
-      "price": 10000
+      "price": 8000
     },
     {
       "data": {
@@ -60853,7 +61423,7 @@
       "defName": "Android3Tier",
       "enabled": true,
       "name": "T3 Android",
-      "price": 8000
+      "price": 6000
     },
     {
       "data": {
@@ -61083,6 +61653,1542 @@
       "defName": "Alien_OrassanHumanHybrid",
       "enabled": true,
       "name": "neko",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+38% Mental break threshold",
+          "+46.8F Maximum comfortable temperature",
+          "+28.8F Minimum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+60 Meat amount",
+          "+50 Leather amount",
+          "+80% Pain shock threshold",
+          "+120% Psychic sensitivity",
+          "+0.9 Melee dodge chance",
+          "+0.8 Melee hit chance",
+          "+80% Aiming time",
+          "+1.2 Shooting accuracy",
+          "+100.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+100.00% Social impact",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+100% Rest rate multiplier",
+          "+100% Plant work speed",
+          "+120% Research speed",
+          "+110% Medical tend quality",
+          "+120% Drug synthesis speed",
+          "+120% Medical surgery success chance",
+          "+80% Mining speed",
+          "+100% Mining yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "토끼의 유전자를 가진, 전쟁과 건설에 능숙한 달 도시의 주민들입니다.\n\n거의 번화계 수준에 다다른 기술로 여러 우주로 이주해 다니며, 플라네타륨이 분포하는 행성을 찾아 그 달에 도시를 건설하고 있습니다. \n\n먼 거리로 인해 이전 우주의 래비들과는 단절됩니다.",
+      "defName": "Rabbie",
+      "enabled": true,
+      "name": "Rabbie",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+55.8F Maximum comfortable temperature",
+          "+10.8F Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+45 Carrying capacity",
+          "+70% Pain shock threshold",
+          "+90% Toxic sensitivity",
+          "+110% Eating speed",
+          "+35 Meat amount",
+          "+30 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+118% Aiming time",
+          "+85.00% Negotiation ability",
+          "+107.00% Social impact",
+          "+110% Mining speed",
+          "+105% Mining yield",
+          "+110% Plant work speed",
+          "+115% Hunting stealth",
+          "+90% Construction speed",
+          "+80% Research speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
+      "defName": "Ratkin",
+      "enabled": true,
+      "name": "Ratkin",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+55.8F Maximum comfortable temperature",
+          "+10.8F Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+45 Carrying capacity",
+          "+70% Pain shock threshold",
+          "+80% Toxic sensitivity",
+          "+110% Eating speed",
+          "+35 Meat amount",
+          "+30 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+118% Aiming time",
+          "+75.00% Negotiation ability",
+          "+95.00% Social impact",
+          "+110% Mining speed",
+          "+105% Mining yield",
+          "+110% Plant work speed",
+          "+115% Hunting stealth",
+          "+90% Construction speed",
+          "+80% Research speed",
+          "+85% Psychic sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
+      "defName": "Ratkin_Su",
+      "enabled": true,
+      "name": "Ratkin subject",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+50% Flammability",
+          "+$3200 Market value",
+          "+4.00 Move speed",
+          "+32.4F Maximum comfortable temperature",
+          "+3.6F Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+80 Meat amount",
+          "+50 Leather amount",
+          "+120% Psychic sensitivity",
+          "+0.8 Melee dodge chance",
+          "+100.00% Social impact",
+          "+85% General labor speed",
+          "+130% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+115% Medical tend quality",
+          "+115% Medical surgery success chance",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
+      "defName": "Alien_Moyo",
+      "enabled": true,
+      "name": "Moyo",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+50% Flammability",
+          "+$5800 Market value",
+          "+5.20 Move speed",
+          "-81.0F Minimum comfortable temperature",
+          "+81.0F Maximum comfortable temperature",
+          "+150% Immunity gain speed",
+          "+150 Carrying capacity",
+          "+40.0% Armor - Sharp",
+          "+30.0% Armor - Blunt",
+          "+40.0% Armor - Heat",
+          "+60% Toxic sensitivity",
+          "+110% Eating speed",
+          "+45 Meat amount",
+          "+80% Plant work speed",
+          "+120% Plant harvest yield",
+          "+75 Leather amount",
+          "+80% Mining speed",
+          "+120% Mining yield",
+          "+1.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+90% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A beautiful xenohuman with characteristics reminiscent of dragons, this particular strain seems to have evolved recently either due to poaching from human slavetraders or some\n\t\t\tother interference. Originally created as a powerful farm animal or perhaps targets for body confiscation by transhumanists, these long-lived people are beginning to use every scrap of technology they can and albeit slowly, forming large and complex social groups. They are naturally in a good mood, but this has been shown to quickly deteriorate if attacked, and despite their small stature their bones and muscles are much denser compared to genome typical humans. While they could hardly be considered greedy, they have been seen showing a fondness for rare metals and gems.",
+      "defName": "Dragonian_Prime",
+      "enabled": true,
+      "name": "Dragonian",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$2500 Market value",
+          "+3 Honor value",
+          "+110 Carrying capacity",
+          "+100% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+85% Rest rate multiplier",
+          "+90% Immunity gain speed",
+          "+90% Global work speed",
+          "+0.5 Foraged food amount",
+          "+90.00% Negotiation ability",
+          "+100.00% Social impact",
+          "+100.00% Trade price improvement",
+          "+40 Leather amount",
+          "+85% Pain shock threshold",
+          "+21.6F Minimum comfortable temperature",
+          "+45.0F Maximum comfortable temperature",
+          "+6.50 Move speed",
+          "+90% Aiming time",
+          "+10.0 Melee dodge chance",
+          "+1.2 Melee hit chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Epona is a humanoid creature whose origin is completely unknown except that it has its origin in Glitterworld. Some scholars view Epona as a kind of chimera with insects, not a gene-binding race with horses. Whatever the truth is. Epona considers themselves a centaur. They have established their own kingdoms in the name of horses in Rimworlds on the periphery.",
+      "defName": "Alien_Epona",
+      "enabled": true,
+      "name": "Epona",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+130.00 Mass",
+          "+100% Flammability",
+          "+$3500 Market value",
+          "+4 Honor value",
+          "+180 Carrying capacity",
+          "+75% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+75% Rest rate multiplier",
+          "+85% Immunity gain speed",
+          "+95% Global work speed",
+          "+0 Foraged food amount",
+          "+90.00% Negotiation ability",
+          "+100.00% Social impact",
+          "+100.00% Trade price improvement",
+          "+70 Leather amount",
+          "+85% Pain shock threshold",
+          "+18.0F Minimum comfortable temperature",
+          "+45.0F Maximum comfortable temperature",
+          "+7.00 Move speed",
+          "+100% Aiming time",
+          "+3.0 Melee dodge chance",
+          "+1.4 Melee hit chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This is Epona, which has become huge due to a problem with the gene called Destrier Syndrome. Only women get Destrier syndrome and get stronger to match their size, but they become a little stupid.",
+      "defName": "Alien_Destrier",
+      "enabled": true,
+      "name": "Destrier",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$5000 Market value",
+          "+20 Honor value",
+          "+90 Carrying capacity",
+          "+100% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+85% Rest rate multiplier",
+          "+105% Immunity gain speed",
+          "+90% Global work speed",
+          "+0.5 Foraged food amount",
+          "+120.00% Negotiation ability",
+          "+120.00% Social impact",
+          "+120.00% Trade price improvement",
+          "+40 Leather amount",
+          "+75% Pain shock threshold",
+          "+21.6F Minimum comfortable temperature",
+          "+45.0F Maximum comfortable temperature",
+          "+7.20 Move speed",
+          "+105% Aiming time",
+          "+12.0 Melee dodge chance",
+          "+0.8 Melee hit chance",
+          "+120% Medical tend quality",
+          "+150% Medical surgery success chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Uniponen is a male epona with horns. The male incarnation of the goddess Epona. They are beautiful, but above all they have medicinal properties in their horns, so they are often hunted by foreign mercenaries and poachers in the Empire.",
+      "defName": "Alien_Unicorn",
+      "enabled": true,
+      "name": "Uniponen",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+$2000 Market value",
+          "+6.24 Move speed",
+          "+50% Flammability",
+          "-16.2F Minimum comfortable temperature",
+          "+43.2F Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+120% Research speed",
+          "+75% Mining speed",
+          "+120.00% Social impact",
+          "+75% Construction speed",
+          "+120% Animal gather speed",
+          "+120% Animal gather yield",
+          "+115% Immunity gain speed",
+          "+150% Psychic sensitivity",
+          "+4.0 Shooting accuracy",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Ferian is Developed by advanced genetic engineering. They have fast speed and high intelligence, and their lives are a little longer. However, there is a downside that it is not suitable for physical labor. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.",
+      "defName": "AFerian",
+      "enabled": true,
+      "name": "Ferian",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A planetouched people much like Tieflings, they are humans who have interbreed with celestials, angels, archons, guardinals and paragons that are depicted as heroic, chivalrous and saintly, a gift from the gods given to help against evil.\n",
+      "defName": "FR_Alien_Aasimar",
+      "enabled": true,
+      "name": "Aasimar",
+      "price": 3583
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Before the well-known Drow came to be there was the Ancestral Dark Elves. While the terms of dark elf and Drow are used interchangeably even by most elves themselves, they are the evolutionary result of the Dark Elves living in the Underdark and being tainted by Wendonai a powerful demon, how they are still around is a mystery and how did some of them not become tainted is even more so unknown.",
+      "defName": "FR_Alien_AncestralDarkElves",
+      "enabled": true,
+      "name": "AncestralDarkElves",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Much like the common gnome these are an underground folk, though they are native to the Underdark alongside Drows and other species another name they are referred to is Svirneblin. These gnomes unlike their cousins are extremely secretive and want to keep as hidden as possible to outsiders.",
+      "defName": "FR_Alien_DeepGnomes",
+      "enabled": true,
+      "name": "DeepGnomes",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A VERY shy and peculiar race, Forest Gnomes are very unlikely to contact or speak to outsiders out of complete fear, at least to non-gnomes, the are basically shut ins who never really speak to people outside their tribes; This could be dude to the fact that they are smaller than most gnomes. They are led by a Gerontocracy which is a political system that the elderly rule society.",
+      "defName": "FR_Alien_ForestGnome",
+      "enabled": true,
+      "name": "ForestGnome",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "More well known for their Hyaenidae like appearance. Gnolls are a more tribalistic species. Like their animal counterpart hyenas, Gnolls are matriarchal their tribes and societies led exclusively by women.  The males serve as the backbone of Gnoll tribal society and in serving the labor and the lesser roles.",
+      "defName": "FR_Alien_Gnoll",
+      "enabled": true,
+      "name": "Gnoll",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Also known as the Eldarin, High elves are considered the most commonly found group out of all elves, they are the evolutionary ancestor of some elves including moon, sun, star, ancestral Dark elves, and Drows. They are known to live in forests and are inherently magical, in addition they are often stereotyped to desire the extremely lavish lifestyles and being petty hedonists and elitist.",
+      "defName": "FR_Alien_HighElves",
+      "enabled": true,
+      "name": "HighElves",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Mongrelfolk are a race that is a mixed bag of many other races usually but not limited to a mix of bestial race like Gnolls, Lizardfolk, Minotaurs and many others hence the name they are usually very collaborative and work well together in teams and groups they are usually shunned by their grotesque appearances. Unlike Simics they are usually breed to this state through generations of intermingling with different species.",
+      "defName": "FR_Alien_MongrelFolk",
+      "enabled": true,
+      "name": "MongrelFolk",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Rock Gnomes are a very innocent race they are very playful and inquisitive. These are what people think when they hear the word gnome, they are the most common of all gnomes, a short stoic folk that are extremely innovative and tech savvy, they are shorter then dwarves and halflings making them the shortest sentient race known alongside forest gnomes which are only slightly shorter.",
+      "defName": "FR_Alien_RockGnome",
+      "enabled": true,
+      "name": "RockGnome",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Another name for these kin is called “Aquatic elves” as the name suggests they can in fact breathe underwater, their population is rather undersized compared to other elves. In addition to the name, they are in fact a sea fairing people. Their society is patriarchal and collectivist in nature as there is no such idea of private property everything is communally owned.",
+      "defName": "FR_Alien_SeaElves",
+      "enabled": true,
+      "name": "SeaElves",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "To keep it very simple Shadar-Kai are Shadow elves. In a more complicated sense, they are another subspecies of elves that are from a realm called Shadowfell they serve a deity known as the Raven Queen which is hinted as the goddess who made this offshoot of elves a reality. They are entirely without emotion but have a desire to strive for greatness.",
+      "defName": "FR_Alien_ShadarKai",
+      "enabled": true,
+      "name": "ShadarKai",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race that is almost “everything but the kitchen sink” Simics are a race that composts of Humans, Elves and Vedalken and many monsters, they are part of a group called the Simic combine, though they aren’t native to the forgotten realms they do have a quest to assimilate all species into the combine called “the guardian project” unlike Mongrelfolk they are engineered to be the way they are.",
+      "defName": "FR_Alien_SimicHybrids",
+      "enabled": true,
+      "name": "SimicHybrids",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Not much is known about the Snow Elves, what is known is that they are a very isolationist group, they usually build cities of ice, they like cold weather it is assumed that they are very socially inept rather than bigoted to other elves or other races",
+      "defName": "FR_Alien_SnowElves",
+      "enabled": true,
+      "name": "SnowElves",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Related to High Sun, and Moon elves. Star elves are the last and final group of the space themed elf group they are less known because for thousands of years they kept themselves hidden before they finally started to return to this world",
+      "defName": "FR_Alien_StarElves",
+      "enabled": true,
+      "name": "StarElves",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Entities that much like Tieflings and Aasimar are planetouched, these are hybrids of humans and elemental spirits such as genies and many others they come in various forms depending on the element that they are. They are very permeated in magic so much so one would be inclined to call them elementals themselves these are water Genasi which are the result of water elementals and humans.",
+      "defName": "FR_Alien_WaterGenasi",
+      "enabled": true,
+      "name": "WaterGenasi",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Wood aren’t the only elves that love to frolic in forests, wild elves are a more feral version of wood elves  living even MORE closer to nature worshiping it even more fanatically then wood elves themselves, they live in trees and they are very self-isolative to anyone who isn’t them.",
+      "defName": "FR_Alien_WildElves",
+      "enabled": true,
+      "name": "WildElves",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+40% Flammability",
+          "+$1500 Market value",
+          "+6.00 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+105% Global work speed",
+          "+120% Animal gather speed",
+          "+120% Animal gather yield",
+          "+120% Butchery speed",
+          "+110% Hunting stealth",
+          "+105% Medical tend quality",
+          "+115% Immunity gain speed",
+          "+15.00% Food poison chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A fox-like species of Kobolds. Venerek are desert dwellers that are well suited to the heat, between their natural resistance and the light clothes they make. Venerek originate from a desert planet and rely heavily on their herds of Blehaws, a crossbreed of goat and donkey. Kobolds in general are a hardy race that will eat nearly anything without complaint. They are also known to be dilligent workers, unafraid of the dark, and unbothered by some of the other fiddly trifels that other races might winge about. The downside is that they are small, making them unsuited to heavy lifting and easy to kill in combat.",
+      "defName": "AFoxbold",
+      "enabled": true,
+      "name": "Venerek Kobold",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+50% Flammability",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "-27.0F Minimum comfortable temperature",
+          "+27.0F Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+110% Mining speed",
+          "+115% Research speed",
+          "+105% Immunity gain speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Frilleum are a long lived and elegant race of dragon-like humanoids. They strongly resemble Frilleus dragons and many worship such creatures. The patron deity of the Frilleum is a space dragoness named Sigrune, a long bodied feathered and furred serpent that endlessly flies through the stars in search of the elusive truth.",
+      "defName": "AFrilleum",
+      "enabled": true,
+      "name": "Frilleum",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+50% Flammability",
+          "+$1850 Market value",
+          "+4.60 Move speed",
+          "-90.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+110% Research speed",
+          "+110% Construction speed",
+          "+5.0 Melee dodge chance",
+          "+0.00% Food poison chance",
+          "+8% Mental break threshold",
+          "+90% Hunger rate multiplier",
+          "+10.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+50.0% Armor - Heat",
+          "+60 Meat amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Lives in high altitude with very low temperature.Has feather around it's body. Most of them are white color and live by forming a group. But some how, there are black ones live alone far from the white groups.",
+      "defName": "FrostyRace",
+      "enabled": true,
+      "name": "Frosty",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+5.00 Move speed",
+          "+10.8F Minimum comfortable temperature",
+          "+64.8F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+4 Honor value",
+          "+0.5 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid version of the megatherium created in a lab. They are big, strong and slow, possessing the devastating claws of their animal counterparts but being quite gentle and mostly harmless.",
+      "defName": "TRAHS_ZoroarkRace",
+      "enabled": true,
+      "name": "Zoroark",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+20% Flammability",
+          "+$1500 Market value",
+          "+120% Immunity gain speed",
+          "+5.00 Move speed",
+          "+200% Hunger rate multiplier",
+          "+200% Eating speed",
+          "+2.0 Cooking speed",
+          "+81.0F Maximum comfortable temperature",
+          "+150 Carrying capacity",
+          "+10.0 Melee dodge chance",
+          "+150% Global work speed",
+          "+3 Honor value",
+          "+50 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Kijins are ogres who were evolved alikes of humans. Their huge bodies and muscles have shrunk, but the muscles are more dense and stronger. They still have to eat a lot to keep themselves up.",
+      "defName": "Alien_Kijin",
+      "enabled": true,
+      "name": "Kijin",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+50% Flammability",
+          "+3 Honor value",
+          "+$2200 Market value",
+          "+5.00 Move speed",
+          "+35% Mental break threshold",
+          "+36.0F Maximum comfortable temperature",
+          "-1.8F Minimum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+60 Meat amount",
+          "+50 Leather amount",
+          "+80% Pain shock threshold",
+          "+100% Psychic sensitivity",
+          "+1.2 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+100% Sell price multiplier",
+          "+90.00% Negotiation ability",
+          "+90.00% Trade price improvement",
+          "+90.00% Social impact",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+90% Rest rate multiplier",
+          "+80% Plant work speed",
+          "+100% Research speed",
+          "+100% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+100% Mining speed",
+          "+100% Mining yield",
+          "+110% Hunting stealth"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race that lives on the ruins of an unknown civilization. Also called Far North or Yeti, they live in a small society over a wide radius.",
+      "defName": "Maru",
+      "enabled": true,
+      "name": "Maru",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+81.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+20.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+5.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.5 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Catgirl",
+      "enabled": true,
+      "name": "Catgirl",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.10 Move speed",
+          "-36.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+25.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+7.5% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.3 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Wolfgirl",
+      "enabled": true,
+      "name": "Wolfgirl",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "-72.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+20.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+5.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.3 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Foxgirl",
+      "enabled": true,
+      "name": "Foxgirl",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.00 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+60 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Cowgirl that has developed a semblance of intelligence.",
+      "defName": "MG_Cowgirl",
+      "enabled": true,
+      "name": "Cowgirl",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+90% Flammability",
+          "+$1600 Market value",
+          "+4.80 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+45 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Harpy that has developed a semblance of intelligence.",
+      "defName": "MG_Harpy",
+      "enabled": true,
+      "name": "Harpy",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$1800 Market value",
+          "+4.00 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+108.0F Maximum comfortable temperature",
+          "+200% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+25.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+50 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
+      "defName": "MG_Slime",
+      "enabled": true,
+      "name": "Slime",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+70% Flammability",
+          "+$1850 Market value",
+          "+4.60 Move speed",
+          "+18.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+10% Toxic sensitivity",
+          "+100% Eating speed",
+          "+50 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+120.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Baphomet that has developed a semblance of intelligence.",
+      "defName": "MG_Baphomet",
+      "enabled": true,
+      "name": "Baphomet",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+6.60 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+7.5% Armor - Blunt",
+          "+7.5% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+75 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+75% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Centaur that has developed a semblance of intelligence.",
+      "defName": "MG_Centaur",
+      "enabled": true,
+      "name": "Centaur",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+80% Flammability",
+          "+$1800 Market value",
+          "+5.00 Move speed",
+          "+18.0F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+500% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+500% Toxic sensitivity",
+          "+110% Eating speed",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
+      "defName": "MG_ForestFairy",
+      "enabled": true,
+      "name": "ForestFairy",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+50% Flammability",
+          "+$1800 Market value",
+          "+5.00 Move speed",
+          "-540.0F Minimum comfortable temperature",
+          "+0.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+120% Toxic sensitivity",
+          "+110% Eating speed",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
+      "defName": "MG_IceFairy",
+      "enabled": true,
+      "name": "IceFairy",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+5% Flammability",
+          "+$2200 Market value",
+          "+4.70 Move speed",
+          "-36.0F Minimum comfortable temperature",
+          "+180.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+100 Carrying capacity",
+          "+40.0% Armor - Sharp",
+          "+40.0% Armor - Blunt",
+          "+100.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+75 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
+      "defName": "MG_Dragon",
+      "enabled": true,
+      "name": "Dragon",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+120% Flammability",
+          "+$2200 Market value",
+          "+4.70 Move speed",
+          "-99.0F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+120 Carrying capacity",
+          "+15.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+10.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+75 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Thrumbogirl",
+      "enabled": true,
+      "name": "Thrumbogirl",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+$2000 Market value",
+          "+3.60 Move speed",
+          "+20% Mental break threshold",
+          "+100% Flammability",
+          "+55.8F Maximum comfortable temperature",
+          "-18.0F Minimum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+100 Carrying capacity",
+          "+100% Pain shock threshold",
+          "+150% Toxic sensitivity",
+          "+110% Eating speed",
+          "+90 Meat amount",
+          "+50 Leather amount",
+          "+0.9 Melee dodge chance",
+          "+100% Aiming time",
+          "+50.00% Negotiation ability",
+          "+150.00% Social impact",
+          "+6 Honor value",
+          "+150% Mining speed",
+          "+115% Mining yield",
+          "+120% Plant work speed",
+          "+90% Hunting stealth",
+          "+120% Construction speed",
+          "+70% Research speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A tall humanoid race known for their unique overbearing antlers, immense physical strength, and notably low agility. Moosesians are reclusive by nature and though they are commonly docile, most prefer to stick to their kin and will get agitated at the first sign of aggression. Every each Moosesian is a member of their respective family until their coming of age where they must wander off and start their own, an average Moosesian household could range anywhere from a few dozens to almost fifty, and sometimes more. When compared to baseline humans, they possess much 'slower' intelligence which, combined with their incentive to fight among themselves, is the sole reason they have yet to dominate the rim with their sheer numbers.",
+      "defName": "Moosesian",
+      "enabled": true,
+      "name": "Moosesian",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+100% Flammability",
+          "+28.8F Minimum comfortable temperature",
+          "+64.8F Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+30 Meat amount",
+          "+$900 Market value",
+          "+4.60 Move speed",
+          "+45 Carrying capacity",
+          "+120% Mining speed",
+          "+2 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of cave-dwelling, small reptilian humanoids.",
+      "defName": "Pawnbold_bold",
+      "enabled": true,
+      "name": "kobold",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+6.50 Move speed",
+          "+85% Hunger rate multiplier",
+          "+1.0 Beauty",
+          "+32.4F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+40% Mental break threshold",
+          "+85% Global work speed",
+          "+3 Honor value",
+          "+75 Meat amount",
+          "+40 Leather amount",
+          "+$1750 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A tribe of rabbit-like humanoids. They are small and weak, but have powerful legs.\n        \n        Small bodies leave them roughly 15% weaker in nearly all respects\n        Less resistant to cold temperatures\n        Over 40% faster running speed\n        Generally fine-featured and attractive\n        Somewhat Neurotic",
+      "defName": "Alien_BunTribe",
+      "enabled": true,
+      "name": "Bun",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+7.62 Move speed",
+          "+10.8F Minimum comfortable temperature",
+          "+50.4F Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+85% Psychic sensitivity",
+          "+120% Mining speed",
+          "+110% Construction speed",
+          "+110% Research speed",
+          "+110% Animal gather speed",
+          "+110% Animal gather yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A curious raccoon race, known for their obsession with information.",
+      "defName": "Alien_Racc",
+      "enabled": true,
+      "name": "Racc",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+$2800 Market value",
+          "+4.40 Move speed",
+          "+19.8F Minimum comfortable temperature",
+          "+55.8F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+2 Honor value",
+          "+25% Mental break threshold",
+          "+90% Psychic sensitivity",
+          "+85% Toxic sensitivity",
+          "+130% Immunity gain speed",
+          "+125 Carrying capacity",
+          "+85% Pain shock threshold",
+          "+65 Meat amount",
+          "+75% Incoming damage multiplier",
+          "+125% Mining speed",
+          "+125% Construction speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Homo Sapien Pumilionis. A baseline dwarf. Their stature belies their physical prowess. Surprisingly hardy against enviromental and recreational toxins.",
+      "defName": "DwarfRace",
+      "enabled": true,
+      "name": "dwarf",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+$3500 Market value",
+          "+4.70 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+40 Leather amount",
+          "+3 Honor value",
+          "+150.00% Negotiation ability",
+          "+150.00% Trade price improvement",
+          "+150.00% Social impact",
+          "+125% Animal gather speed",
+          "+125% Plant work speed",
+          "+125% Hunting stealth",
+          "+125% Medical tend speed",
+          "+125% Medical operation speed",
+          "+1.3 Cooking speed",
+          "+125% Drug cooking speed",
+          "+125% Butchery speed",
+          "+125% Mechanoid shredding speed",
+          "+95% Trap spring chance",
+          "+80 Meat amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Homo Sapien Nobilis. A baseline elf. Their grace and delicate features make them highly sought after entertainers.",
+      "defName": "ElfRace",
+      "enabled": true,
+      "name": "elf",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+115.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+10.8F Minimum comfortable temperature",
+          "+64.8F Maximum comfortable temperature",
+          "+55 Leather amount",
+          "+2 Honor value",
+          "+100 Meat amount",
+          "+90% Toxic sensitivity",
+          "+130% Immunity gain speed",
+          "+130 Carrying capacity",
+          "+50% Incoming damage multiplier",
+          "+125% Mining speed",
+          "+125% Construction speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Homo Sapien Robustus. A baseline ork. Noted for their strength, physical durability and short lives",
+      "defName": "OrcRace",
+      "enabled": true,
+      "name": "orc",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+300.00 Mass",
+          "+70% Flammability",
+          "+$4800 Market value",
+          "+4.40 Move speed",
+          "+1.8F Minimum comfortable temperature",
+          "+73.8F Maximum comfortable temperature",
+          "+70 Leather amount",
+          "+2 Honor value",
+          "+85% Toxic sensitivity",
+          "+90% Rest rate multiplier",
+          "+150% Immunity gain speed",
+          "+175 Carrying capacity",
+          "+70.00% Negotiation ability",
+          "+70.00% Arrest success chance",
+          "+70.00% Trade price improvement",
+          "+40% Incoming damage multiplier",
+          "+150% Mining speed",
+          "+150% Construction speed",
+          "+130 Meat amount",
+          "+130% Hunger rate multiplier",
+          "+90% Global work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Homo Sapien Ingentis. A baseline troll. Their overbearing physical might makes them quite popular heroes among mercenary groups, though their calorie intake and size make logistics an issue.",
+      "defName": "TrollRace",
+      "enabled": true,
+      "name": "troll",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+110% Psychic sensitivity",
+          "+70% Toxic sensitivity",
+          "+18.0F Minimum comfortable temperature",
+          "+36.0F Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+$2300 Market value",
+          "+5.15 Move speed",
+          "+60 Carrying capacity",
+          "+120% Research speed",
+          "+90% Mining speed",
+          "+100.00% Social impact",
+          "+90% Plant work speed",
+          "+110% Plant harvest yield",
+          "+100% Construction speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Drow. Originating from their Drowian homeworld and a cruel, harsh society which has left its impact even on those on the Rim. Whether sent here as punishment, or as escape and a search for better things, these Drow are here now.",
+      "defName": "Alien_Drow_Otto",
+      "enabled": true,
+      "name": "Drow",
       "price": 1500
     }
   ]
