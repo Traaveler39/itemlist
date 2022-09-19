@@ -1229,9 +1229,9 @@
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "globalCooldown": 1200,
+      "hasLocalCooldown": true,
+      "localCooldown": 1200,
       "mod": "ToolkitUtils"
     },
     "description": null,

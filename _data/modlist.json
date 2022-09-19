@@ -18,6 +18,18 @@
     "version": "4.7.272"
   },
   {
+    "author": "avilmask",
+    "name": "Save On Incident",
+    "steamId": "2122908176",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sirrandoo",
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.0.1.0"
+  },
+  {
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
@@ -51,19 +63,13 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.1.0"
+    "version": "6.2.1.2"
   },
   {
     "author": "hodlhodl",
     "name": "TwitchToolkit - Lootboxes",
     "steamId": "1720021578",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.3.2"
   },
   {
     "author": "SirRandoo",
@@ -984,12 +990,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "targhetti",
-    "name": "Show Draftees Weapon",
-    "steamId": "1690978457",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Kiame Vivacity",
     "name": "[KV] Show Hair With Hats or Hide All Hats",
     "steamId": "1180826364",
@@ -1012,12 +1012,6 @@
     "name": "Snap Out!",
     "steamId": "1319782555",
     "version": "0.7.5"
-  },
-  {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
   },
   {
     "author": "Linkolas",
@@ -1102,12 +1096,6 @@
     "name": "Swimwear",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Andreas Pardeike and  BleuSquid",
-    "name": "Puppeteer",
-    "steamId": "2594873651",
-    "version": "1.6.2.1"
   },
   {
     "author": "Kosaro",
@@ -1212,12 +1200,6 @@
     "version": "1.3.1"
   },
   {
-    "author": "Velcroboy",
-    "name": "Primitive Storage",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "JangoD'soul",
     "name": "[JDS] Simple Storage",
     "steamId": null,
@@ -1304,12 +1286,6 @@
   {
     "author": "SalmonToastie",
     "name": "Forgotten Realms - Gates",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ArmoredAmpharos",
-    "name": "Foxbold Race",
     "steamId": null,
     "version": null
   },
@@ -1482,26 +1458,8 @@
     "version": "3.17.533"
   },
   {
-    "author": "Sugar Show",
-    "name": "Medieval Music",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "sunny",
     "name": "Rabbie The Moonrabbit - English Patch (1.3)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ELIF",
-    "name": "[ELIF] SRTS - Helicopters",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Fuji",
-    "name": "RimHeli",
     "steamId": null,
     "version": null
   },
@@ -1528,5 +1486,203 @@
     "name": "Orassans",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "denev",
+    "name": "Filterable Designator",
+    "steamId": "2660600837",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kami Katze",
+    "name": "Material Filter",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tarojun",
+    "name": "EPOE-Forked: Alien expansion + patcher",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.3.1"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Semi Random Research",
+    "steamId": "2375902187",
+    "version": "1.0.5"
+  },
+  {
+    "author": "avilmask",
+    "name": "Research Whatever",
+    "steamId": "2552092060",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "legodude17",
+    "name": "Quality Colors",
+    "steamId": "2420141361",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dninemfive",
+    "name": "Quality Cooldown",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrKociak",
+    "name": "Randomised Stone Refinery",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Music Manager",
+    "steamId": "2229205672",
+    "version": "1.2.196"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "List Everything",
+    "steamId": "1706669545",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Krypt",
+    "name": "ModDiff",
+    "steamId": "2200054867",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Harvest Yield",
+    "steamId": "1461790308",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "bodlosh",
+    "name": "FloraTab",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lurmey",
+    "name": "Foundations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alex",
+    "name": "Friendly Fire Tweaks",
+    "steamId": "1582686191",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Keep Bed Ownership",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Do Your F****** Research",
+    "steamId": "2375193973",
+    "version": "1.0.1"
+  },
+  {
+    "author": "民火",
+    "name": "Cut plants before building",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lurmey",
+    "name": "Floors Are Light!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kayesh",
+    "name": "Bionic Jaws Are Not Disfigurements",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "InsertKey",
+    "name": "ItemListSelector",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "iwishforducks",
+    "name": "Ducks' Insane Skills",
+    "steamId": "2450186578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Xavior",
+    "name": "Glitter Tech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "G Nanni",
+    "name": "Glitter Tech Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Paragon",
+    "name": "UnLimitedArmor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shavius",
+    "name": "Reliable Armors (Adopted)",
+    "steamId": "2784937142",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "joe_the_tech",
+    "name": "Marine Armor Materials",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike and  BleuSquid",
+    "name": "Puppeteer",
+    "steamId": "2594873651",
+    "version": "1.6.2.1"
   }
 ]
