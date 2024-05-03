@@ -18025,174 +18025,6 @@
       "price": 1
     },
     {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "BedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "DoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestroyalbed",
-      "category": "Furniture",
-      "defname": "RoyalBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guesthospitalbed",
-      "category": "Furniture",
-      "defname": "HospitalBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestbedroll",
-      "category": "Furniture",
-      "defname": "BedrollGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdoublebedroll",
-      "category": "Furniture",
-      "defname": "BedrollDoubleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestancientbed",
-      "category": "Misc",
-      "defname": "AncientBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "SlabBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestslabdoublebed",
-      "category": "Furniture",
-      "defname": "SlabDoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdeathrestcasket",
-      "category": "Misc",
-      "defname": "DeathrestCasketGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestcrib",
-      "category": "Furniture",
-      "defname": "CribGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestre-ambulationpod",
-      "category": "Furniture",
-      "defname": "ambTableGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "RGK_bedSingleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "RGK_bedSingleBGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "RGK_bedDoubleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdoublebed2",
-      "category": "Furniture",
-      "defname": "RGK_bedDoubleBGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestclassydoublebed",
-      "category": "Furniture",
-      "defname": "GL_ClassyDoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestoperatingtable",
-      "category": "Furniture",
-      "defname": "Bed_OperatingTableGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestcryptosleepsuspender",
-      "category": "Furniture",
-      "defname": "Bed_CryptoBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "Bed_StoneSlabGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestsimplebed",
-      "category": "Furniture",
-      "defname": "Bed_SimpleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_ErgonomicGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomicGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestroyalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_KingsizeGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestadvancedbed",
-      "category": "Furniture",
-      "defname": "Bed_AdvBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestadvanceddoublebed",
-      "category": "Furniture",
-      "defname": "Bed_AdvDoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestandroidstand",
-      "category": "Misc",
-      "defname": "VREA_AndroidStandGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestneutrocasket",
-      "category": "Furniture",
-      "defname": "VREA_NeutroCasketGuest",
-      "price": -10
-    },
-    {
       "abr": "shrike5.56",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_AWS_LMG",
@@ -20380,43 +20212,43 @@
       "abr": "vfwpdmrstation",
       "category": "Production",
       "defname": "VFWPBench_DMR",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "vfwpmachinegunstation",
       "category": "Production",
       "defname": "VFWPBench_MG",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "vfwpriflestation",
       "category": "Production",
       "defname": "VFWPBench_Rifle",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "vfwpshotgunstation",
       "category": "Production",
       "defname": "VFWPBench_Shotgun",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "vfwpsidearmstation",
       "category": "Production",
       "defname": "VFWPBench_Sidearm",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "vfwpsmgstation",
       "category": "Production",
       "defname": "VFWPBench_SMG",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "vfwpsniperstation",
       "category": "Production",
       "defname": "VFWPBench_Sniper",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "vhs-2",
@@ -20488,7 +20320,7 @@
       "abr": "wateraccumulator",
       "category": "Misc",
       "defname": "ARR_WaterAccumulator",
-      "price": -10
+      "price": 274
     },
     {
       "abr": "watercrystal",
@@ -20518,7 +20350,7 @@
       "abr": "windaccumulator",
       "category": "Misc",
       "defname": "ARR_WindAccumulator",
-      "price": -10
+      "price": 274
     },
     {
       "abr": "windcrystal",
@@ -20537,6 +20369,174 @@
       "category": "Disciple of war",
       "defname": "ARR_RelicWeapon_Yoshimitsu",
       "price": 5000
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": 1467
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": 667
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": 290
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "AncientBedGuest",
+      "price": 5
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": 102
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": 288
+    },
+    {
+      "abr": "guestdeathrestcasket",
+      "category": "Misc",
+      "defname": "DeathrestCasketGuest",
+      "price": 492
+    },
+    {
+      "abr": "guestcrib",
+      "category": "Furniture",
+      "defname": "CribGuest",
+      "price": 86
+    },
+    {
+      "abr": "guestre-ambulationpod",
+      "category": "Furniture",
+      "defname": "ambTableGuest",
+      "price": 8258
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "RGK_bedSingleGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "RGK_bedSingleBGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "RGK_bedDoubleGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestdoublebed2",
+      "category": "Furniture",
+      "defname": "RGK_bedDoubleBGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestclassydoublebed",
+      "category": "Furniture",
+      "defname": "GL_ClassyDoubleBedGuest",
+      "price": 942
+    },
+    {
+      "abr": "guestoperatingtable",
+      "category": "Furniture",
+      "defname": "Bed_OperatingTableGuest",
+      "price": 508
+    },
+    {
+      "abr": "guestcryptosleepsuspender",
+      "category": "Furniture",
+      "defname": "Bed_CryptoBedGuest",
+      "price": 733
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "Bed_StoneSlabGuest",
+      "price": 111
+    },
+    {
+      "abr": "guestsimplebed",
+      "category": "Furniture",
+      "defname": "Bed_SimpleGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestergonomicbed",
+      "category": "Furniture",
+      "defname": "Bed_ErgonomicGuest",
+      "price": 450
+    },
+    {
+      "abr": "guestergonomicdoublebed",
+      "category": "Furniture",
+      "defname": "Bed_DoubleErgonomicGuest",
+      "price": 867
+    },
+    {
+      "abr": "guestroyalposterbed",
+      "category": "Furniture",
+      "defname": "Bed_KingsizeGuest",
+      "price": 2008
+    },
+    {
+      "abr": "guestadvancedbed",
+      "category": "Furniture",
+      "defname": "Bed_AdvBedGuest",
+      "price": 833
+    },
+    {
+      "abr": "guestadvanceddoublebed",
+      "category": "Furniture",
+      "defname": "Bed_AdvDoubleBedGuest",
+      "price": 1483
+    },
+    {
+      "abr": "guestandroidstand",
+      "category": "Misc",
+      "defname": "VREA_AndroidStandGuest",
+      "price": 166
+    },
+    {
+      "abr": "guestneutrocasket",
+      "category": "Furniture",
+      "defname": "VREA_NeutroCasketGuest",
+      "price": 750
     }
   ],
   "total": 3423

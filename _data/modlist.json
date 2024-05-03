@@ -151,6 +151,12 @@
   },
   {
     "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Dubwise",
     "name": "Dubs Rimatomics",
     "steamId": "1127530465",
     "version": "1.7.7368"
@@ -276,6 +282,12 @@
     "version": null
   },
   {
+    "author": "NewsofPE",
+    "name": "No Starting Research",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mehni",
     "name": "Numbers",
     "steamId": "1414302321",
@@ -286,6 +298,18 @@
     "name": "OgreStack",
     "steamId": "1447140290",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17 and ISOREX",
+    "name": "Pawn Editor",
+    "steamId": "3219801790",
+    "version": "1.0.7"
   },
   {
     "author": "Mehni",
@@ -378,6 +402,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Roolo",
+    "name": "Search and Destroy (Unofficial Update)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": " Original author: Captain Muscles (Nathan Harbour)\n    Since 1.4: GrobmotoriGER\n    ",
+    "name": "Semi Random Research (Unofficial)",
+    "steamId": "2879094186",
+    "version": "1.1.2"
+  },
+  {
     "author": "PeteTimesSix",
     "name": "Simple sidearms",
     "steamId": "927155256",
@@ -400,6 +436,12 @@
     "name": "Stabilize",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "GHXX",
+    "name": "Tech Advancing",
+    "steamId": "735268789",
+    "version": "1.0.0.0"
   },
   {
     "author": "nry",
@@ -760,6 +802,12 @@
     "name": "Vanilla Weapons Expanded - Tribal",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Fluffy and patched by arof",
+    "name": "Work Tab 1.5 Temp",
+    "steamId": "2552065963",
+    "version": "1.0.0"
   },
   {
     "author": "FrozenSnowFox",

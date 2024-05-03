@@ -5815,7 +5815,7 @@
       "name": "summoner"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 1500,
       "removePrice": 1,
@@ -46230,7 +46230,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 1500
     },
@@ -46258,7 +46258,7 @@
       "defName": "ARR_AuRaRaen",
       "enabled": true,
       "name": "au ra",
-      "price": 2917
+      "price": 1500
     },
     {
       "data": {
@@ -46284,7 +46284,7 @@
       "defName": "ARR_AuRaXaela",
       "enabled": true,
       "name": "au ra",
-      "price": 2917
+      "price": 1500
     },
     {
       "data": {
@@ -46309,7 +46309,7 @@
       "defName": "ARR_ElezenDuskwight",
       "enabled": true,
       "name": "elezen",
-      "price": 2917
+      "price": 1500
     },
     {
       "data": {
@@ -46334,7 +46334,7 @@
       "defName": "ARR_ElezenWildwood",
       "enabled": true,
       "name": "elezen",
-      "price": 2917
+      "price": 1500
     },
     {
       "data": {
@@ -46356,7 +46356,7 @@
       "defName": "ARR_HyurHighlander",
       "enabled": true,
       "name": "Hyur",
-      "price": 2917
+      "price": 1500
     },
     {
       "data": {
@@ -46378,7 +46378,7 @@
       "defName": "ARR_HyurMidlander",
       "enabled": true,
       "name": "Hyur",
-      "price": 2917
+      "price": 1500
     },
     {
       "data": {
@@ -46402,7 +46402,7 @@
       "defName": "ARR_LalafellDunesfolk",
       "enabled": true,
       "name": "Lalafell",
-      "price": 2917
+      "price": 1500
     },
     {
       "data": {
@@ -46426,7 +46426,7 @@
       "defName": "ARR_LalafellPlainsfolk",
       "enabled": true,
       "name": "Lalafell",
-      "price": 2917
+      "price": 1500
     },
     {
       "data": {
@@ -46450,7 +46450,7 @@
       "defName": "ARR_MiqoteKeeper",
       "enabled": true,
       "name": "Miqo'te",
-      "price": 2917
+      "price": 1500
     },
     {
       "data": {
@@ -46474,7 +46474,7 @@
       "defName": "ARR_MiqoteSeeker",
       "enabled": true,
       "name": "Miqo'te",
-      "price": 2917
+      "price": 1500
     },
     {
       "data": {
@@ -46499,7 +46499,7 @@
       "defName": "ARR_VieraRava",
       "enabled": true,
       "name": "Viera",
-      "price": 2917
+      "price": 1500
     },
     {
       "data": {
@@ -46524,7 +46524,7 @@
       "defName": "ARR_VieraVeena",
       "enabled": true,
       "name": "Viera",
-      "price": 2917
+      "price": 1500
     }
   ]
 }
