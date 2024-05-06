@@ -138,6 +138,12 @@
     "version": null
   },
   {
+    "author": "tikubonn",
+    "name": "Don't Block Door",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "dracoix",
     "name": "Door Mat",
     "steamId": null,
@@ -168,12 +174,6 @@
     "version": null
   },
   {
-    "author": "(see description)",
-    "name": "Extended Storage (Continued)",
-    "steamId": "2566120724",
-    "version": "1.5.0"
-  },
-  {
     "author": "NanoCE",
     "name": "Glass+Lights",
     "steamId": null,
@@ -186,9 +186,21 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi and Sarg",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "GloomyLynx NukaFrog",
-    "name": "GloomyFurniture (Continued)",
-    "steamId": "3220042485",
+    "name": "GloomyFurniture",
+    "steamId": "1558635181",
     "version": "1.0.4"
   },
   {
@@ -228,28 +240,10 @@
     "version": null
   },
   {
-    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
-    "name": "RimFridge: Now with Shelves!",
-    "steamId": "2898411376",
-    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage (Unofficial 1.5)",
-    "steamId": "3220688225",
-    "version": "1.4.1.4"
-  },
-  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
     "version": "1.15.3.0"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
   },
   {
     "author": "legodude17 and Oskar Potocki",
@@ -264,10 +258,22 @@
     "version": "2.7.0.0"
   },
   {
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "3226161877",
+    "version": "1.0.1.0"
+  },
+  {
     "author": "erdelf",
     "name": "MinifyEverything",
     "steamId": "872762753",
     "version": "1.0.8838.32721"
+  },
+  {
+    "author": "sunny",
+    "name": "MoreGloomyWalls 1.5",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Hob Took",
@@ -309,7 +315,25 @@
     "author": "legodude17 and ISOREX",
     "name": "Pawn Editor",
     "steamId": "3219801790",
-    "version": "1.0.7"
+    "version": "1.0.8"
+  },
+  {
+    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.5.0.3"
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mehni",
@@ -462,6 +486,12 @@
     "version": "7.0.3.0-beta+a805c319a49af0ec62edf20a182bb3a911869b36"
   },
   {
+    "author": "hoop",
+    "name": "Turn It On and Off",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sarg Bjornson and Oskar Potocki",
     "name": "Vanilla Animals Expanded",
     "steamId": "2871933948",
@@ -594,16 +624,16 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Props and Decor",
+    "steamId": "2102143149",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, Trunken and XeoNovaDan",
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
     "version": "1.1.1.0"
-  },
-  {
-    "author": "OskarPotocki, Atlas, Kikohi and Sarg",
-    "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "OskarPotocki, Atlas and Kikohi",

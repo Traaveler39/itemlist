@@ -7424,7 +7424,7 @@
     },
     {
       "abr": "bookshelf",
-      "category": "Misc",
+      "category": "Furniture",
       "defname": "GL_Bookshelf",
       "price": -10
     },
@@ -8171,12 +8171,6 @@
       "category": "Magic apparel",
       "defname": "DemonLordCloak",
       "price": 4233
-    },
-    {
-      "abr": "clothingrack",
-      "category": "Storage",
-      "defname": "Storage_Locker",
-      "price": -10
     },
     {
       "abr": "clownfish",
@@ -9343,12 +9337,6 @@
       "price": 667
     },
     {
-      "abr": "fabrichamper",
-      "category": "Storage",
-      "defname": "Storage_FabricHamper",
-      "price": -10
-    },
-    {
       "abr": "fabricationcabinet",
       "category": "Misc",
       "defname": "VFE_FabricationCabinet",
@@ -9628,12 +9616,6 @@
       "abr": "flowerwall",
       "category": "Misc",
       "defname": "GL_FlowerWall",
-      "price": -10
-    },
-    {
-      "abr": "foodbasket",
-      "category": "Storage",
-      "defname": "Storage_Basket",
       "price": -10
     },
     {
@@ -11044,12 +11026,6 @@
       "abr": "harmonobooster",
       "category": "Boosters",
       "defname": "GR_BoosterHarmono",
-      "price": -10
-    },
-    {
-      "abr": "hazmatcontainer",
-      "category": "Storage",
-      "defname": "Storage_HazMatContainer",
       "price": -10
     },
     {
@@ -13009,12 +12985,6 @@
       "price": 967
     },
     {
-      "abr": "medicinecabinet",
-      "category": "Storage",
-      "defname": "Storage_MedicineCabinet",
-      "price": -10
-    },
-    {
       "abr": "mediumaltar",
       "category": "Misc",
       "defname": "Altar_Medium",
@@ -13546,19 +13516,19 @@
       "abr": "necromancerspell:lichform",
       "category": "Scrolls",
       "defname": "SpellOf_LichForm",
-      "price": 4292
+      "price": -10
     },
     {
       "abr": "necromancerspell:massconsumecorpse",
       "category": "Scrolls",
       "defname": "SpellOf_ConsumeCorpse_Mass",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "necroticorb",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_NecroticOrb",
-      "price": 3000
+      "price": -10
     },
     {
       "abr": "neuro-cureframework",
@@ -13991,12 +13961,6 @@
       "category": "Scrolls",
       "defname": "SpellOf_TauntC",
       "price": 1000
-    },
-    {
-      "abr": "pallet",
-      "category": "Storage",
-      "defname": "Storage_WoodenPallet",
-      "price": -10
     },
     {
       "abr": "panthermeat",
@@ -15631,12 +15595,6 @@
       "price": 3
     },
     {
-      "abr": "skip",
-      "category": "Storage",
-      "defname": "Storage_Skip",
-      "price": -10
-    },
-    {
       "abr": "slabbed",
       "category": "Furniture",
       "defname": "Bed_StoneSlab",
@@ -17029,12 +16987,6 @@
       "price": -10
     },
     {
-      "abr": "trayrack",
-      "category": "Storage",
-      "defname": "Storage_TrayRack",
-      "price": -10
-    },
-    {
       "abr": "trench",
       "category": "Misc",
       "defname": "VFES_Trench",
@@ -18088,7 +18040,7 @@
       "abr": "aek-971",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_AEK971_AR",
-      "price": 800
+      "price": -10
     },
     {
       "abr": "aetherlance",
@@ -20212,43 +20164,43 @@
       "abr": "vfwpdmrstation",
       "category": "Production",
       "defname": "VFWPBench_DMR",
-      "price": 442
+      "price": -10
     },
     {
       "abr": "vfwpmachinegunstation",
       "category": "Production",
       "defname": "VFWPBench_MG",
-      "price": 442
+      "price": -10
     },
     {
       "abr": "vfwpriflestation",
       "category": "Production",
       "defname": "VFWPBench_Rifle",
-      "price": 442
+      "price": -10
     },
     {
       "abr": "vfwpshotgunstation",
       "category": "Production",
       "defname": "VFWPBench_Shotgun",
-      "price": 442
+      "price": -10
     },
     {
       "abr": "vfwpsidearmstation",
       "category": "Production",
       "defname": "VFWPBench_Sidearm",
-      "price": 442
+      "price": -10
     },
     {
       "abr": "vfwpsmgstation",
       "category": "Production",
       "defname": "VFWPBench_SMG",
-      "price": 442
+      "price": -10
     },
     {
       "abr": "vfwpsniperstation",
       "category": "Production",
       "defname": "VFWPBench_Sniper",
-      "price": 442
+      "price": -10
     },
     {
       "abr": "vhs-2",
@@ -20320,7 +20272,7 @@
       "abr": "wateraccumulator",
       "category": "Misc",
       "defname": "ARR_WaterAccumulator",
-      "price": 274
+      "price": -10
     },
     {
       "abr": "watercrystal",
@@ -20350,7 +20302,7 @@
       "abr": "windaccumulator",
       "category": "Misc",
       "defname": "ARR_WindAccumulator",
-      "price": 274
+      "price": -10
     },
     {
       "abr": "windcrystal",
@@ -20371,173 +20323,1163 @@
       "price": 5000
     },
     {
+      "abr": "mendingkit",
+      "category": "Manufactured",
+      "defname": "MendingKit",
+      "price": 17
+    },
+    {
+      "abr": "mendingworkbench",
+      "category": "Production",
+      "defname": "TableMending",
+      "price": 583
+    },
+    {
+      "abr": "reinforcedwall",
+      "category": "Misc",
+      "defname": "GL_HeavyWall",
+      "price": -10
+    },
+    {
+      "abr": "bundlesa",
+      "category": "Furniture",
+      "defname": "JDSS_BundlesA",
+      "price": -10
+    },
+    {
+      "abr": "bundlesb",
+      "category": "Furniture",
+      "defname": "JDSS_BundlesB",
+      "price": -10
+    },
+    {
+      "abr": "bundlesc",
+      "category": "Furniture",
+      "defname": "JDSS_BundlesC",
+      "price": -10
+    },
+    {
+      "abr": "burlapsacka",
+      "category": "Furniture",
+      "defname": "JDSS_Burlap_SackA",
+      "price": -10
+    },
+    {
+      "abr": "burlapsackopen",
+      "category": "Furniture",
+      "defname": "JDSS_Burlap_Sack_Open",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxa",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxA",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxb",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxB",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxc",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxC",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxd",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxD",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxe",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxE",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxf",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxF",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxg",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxG",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxh",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxH",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxi",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxI",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxj",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxJ",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxk",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxK",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxl",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxL",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxm",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxM",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxn",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxN",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxo",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxO",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxopen",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_Box_Open",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxp",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxP",
+      "price": -10
+    },
+    {
+      "abr": "cardboardboxq",
+      "category": "Furniture",
+      "defname": "JDSS_Cardboard_BoxQ",
+      "price": -10
+    },
+    {
+      "abr": "cargocasegraya",
+      "category": "Furniture",
+      "defname": "JDSS_Cargo_Case_GrayA",
+      "price": -10
+    },
+    {
+      "abr": "cargocasegrayb",
+      "category": "Furniture",
+      "defname": "JDSS_Cargo_Case_GrayB",
+      "price": -10
+    },
+    {
+      "abr": "cargocasegrayc",
+      "category": "Furniture",
+      "defname": "JDSS_Cargo_Case_GrayC",
+      "price": -10
+    },
+    {
+      "abr": "cargocasegreena",
+      "category": "Furniture",
+      "defname": "JDSS_Cargo_Case_GreenA",
+      "price": -10
+    },
+    {
+      "abr": "cargocasegreenb",
+      "category": "Furniture",
+      "defname": "JDSS_Cargo_Case_GreenB",
+      "price": -10
+    },
+    {
+      "abr": "cargocasegreenc",
+      "category": "Furniture",
+      "defname": "JDSS_Cargo_Case_GreenC",
+      "price": -10
+    },
+    {
+      "abr": "cargocontainerblack",
+      "category": "Furniture",
+      "defname": "JDSS_Cargo_Container_Black",
+      "price": -10
+    },
+    {
+      "abr": "cargocontainerblue",
+      "category": "Furniture",
+      "defname": "JDSS_Cargo_Container_Blue",
+      "price": -10
+    },
+    {
+      "abr": "cargocontainergreen",
+      "category": "Furniture",
+      "defname": "JDSS_Cargo_Container_Green",
+      "price": -10
+    },
+    {
+      "abr": "cargocontainerred",
+      "category": "Furniture",
+      "defname": "JDSS_Cargo_Container_Red",
+      "price": -10
+    },
+    {
+      "abr": "cargocontaineryellow",
+      "category": "Furniture",
+      "defname": "JDSS_Cargo_Container_Yellow",
+      "price": -10
+    },
+    {
+      "abr": "cratea",
+      "category": "Furniture",
+      "defname": "JDSS_CrateA",
+      "price": -10
+    },
+    {
+      "abr": "crateb",
+      "category": "Furniture",
+      "defname": "JDSS_CrateB",
+      "price": -10
+    },
+    {
+      "abr": "cratec",
+      "category": "Furniture",
+      "defname": "JDSS_CrateC",
+      "price": -10
+    },
+    {
+      "abr": "crated",
+      "category": "Furniture",
+      "defname": "JDSS_CrateD",
+      "price": -10
+    },
+    {
+      "abr": "cratee",
+      "category": "Furniture",
+      "defname": "JDSS_CrateE",
+      "price": -10
+    },
+    {
+      "abr": "cratef",
+      "category": "Furniture",
+      "defname": "JDSS_CrateF",
+      "price": -10
+    },
+    {
+      "abr": "crateopen",
+      "category": "Furniture",
+      "defname": "JDSS_Crate_Open",
+      "price": -10
+    },
+    {
+      "abr": "footlocker",
+      "category": "Furniture",
+      "defname": "JDSS_Foot_Locker",
+      "price": -10
+    },
+    {
+      "abr": "haybalesa",
+      "category": "Furniture",
+      "defname": "JDSS_Hay_BalesA",
+      "price": -10
+    },
+    {
+      "abr": "industrialshelfa",
+      "category": "Furniture",
+      "defname": "JDSS_Industrial_ShelfA",
+      "price": -10
+    },
+    {
+      "abr": "industrialshelfb",
+      "category": "Furniture",
+      "defname": "JDSS_Industrial_ShelfB",
+      "price": -10
+    },
+    {
+      "abr": "industrialshelfc",
+      "category": "Furniture",
+      "defname": "JDSS_Industrial_ShelfC",
+      "price": -10
+    },
+    {
+      "abr": "industrialshelfd",
+      "category": "Furniture",
+      "defname": "JDSS_Industrial_ShelfD",
+      "price": -10
+    },
+    {
+      "abr": "industrialshelfe",
+      "category": "Furniture",
+      "defname": "JDSS_Industrial_ShelfE",
+      "price": -10
+    },
+    {
+      "abr": "industrialshelff",
+      "category": "Furniture",
+      "defname": "JDSS_Industrial_ShelfF",
+      "price": -10
+    },
+    {
+      "abr": "industrialshelfg",
+      "category": "Furniture",
+      "defname": "JDSS_Industrial_ShelfG",
+      "price": -10
+    },
+    {
+      "abr": "industrialshelfh",
+      "category": "Furniture",
+      "defname": "JDSS_Industrial_ShelfH",
+      "price": -10
+    },
+    {
+      "abr": "industrialshelfi",
+      "category": "Furniture",
+      "defname": "JDSS_Industrial_ShelfI",
+      "price": -10
+    },
+    {
+      "abr": "industrialshelfj",
+      "category": "Furniture",
+      "defname": "JDSS_Industrial_ShelfJ",
+      "price": -10
+    },
+    {
+      "abr": "industrialshelfk",
+      "category": "Furniture",
+      "defname": "JDSS_Industrial_ShelfK",
+      "price": -10
+    },
+    {
+      "abr": "industrialshelfl",
+      "category": "Furniture",
+      "defname": "JDSS_Industrial_ShelfL",
+      "price": -10
+    },
+    {
+      "abr": "industrialshelfm",
+      "category": "Furniture",
+      "defname": "JDSS_Industrial_ShelfM",
+      "price": -10
+    },
+    {
+      "abr": "industrialshelfn",
+      "category": "Furniture",
+      "defname": "JDSS_Industrial_ShelfN",
+      "price": -10
+    },
+    {
+      "abr": "largertanker",
+      "category": "Furniture",
+      "defname": "JDSS_Larger_Tanker",
+      "price": -10
+    },
+    {
+      "abr": "lockera",
+      "category": "Furniture",
+      "defname": "JDSS_LockerA",
+      "price": -10
+    },
+    {
+      "abr": "lockerb",
+      "category": "Furniture",
+      "defname": "JDSS_LcokerB",
+      "price": -10
+    },
+    {
+      "abr": "metalbarrelopen",
+      "category": "Furniture",
+      "defname": "JDSS_Metal_Barrel_Open",
+      "price": -10
+    },
+    {
+      "abr": "metalbarrela",
+      "category": "Furniture",
+      "defname": "JDSS_Metal_BarrelA",
+      "price": -10
+    },
+    {
+      "abr": "metalcratea",
+      "category": "Furniture",
+      "defname": "JDSS_Metal_CrateA",
+      "price": -10
+    },
+    {
+      "abr": "metalcrateopen",
+      "category": "Furniture",
+      "defname": "JDSS_Metal_Crate_Open",
+      "price": -10
+    },
+    {
+      "abr": "palleta",
+      "category": "Furniture",
+      "defname": "JDSS_PalletA",
+      "price": -10
+    },
+    {
+      "abr": "palletb",
+      "category": "Furniture",
+      "defname": "JDSS_PalletB",
+      "price": -10
+    },
+    {
+      "abr": "plasticbaga",
+      "category": "Furniture",
+      "defname": "JDSS_Plastic_BagA",
+      "price": -10
+    },
+    {
+      "abr": "plasticbaga",
+      "category": "Furniture",
+      "defname": "JDSS_Plastic_BagB",
+      "price": -10
+    },
+    {
+      "abr": "plasticbagc",
+      "category": "Furniture",
+      "defname": "JDSS_Plastic_BagC",
+      "price": -10
+    },
+    {
+      "abr": "plasticbagd",
+      "category": "Furniture",
+      "defname": "JDSS_Plastic_BagD",
+      "price": -10
+    },
+    {
+      "abr": "plasticpalleta",
+      "category": "Furniture",
+      "defname": "JDSS_Plastic_PalletA",
+      "price": -10
+    },
+    {
+      "abr": "plasticpalletb",
+      "category": "Furniture",
+      "defname": "JDSS_Plastic_PalletB",
+      "price": -10
+    },
+    {
+      "abr": "pota",
+      "category": "Furniture",
+      "defname": "JDSS_PotA",
+      "price": -10
+    },
+    {
+      "abr": "pota",
+      "category": "Furniture",
+      "defname": "JDSS_PotC",
+      "price": -10
+    },
+    {
+      "abr": "potb",
+      "category": "Furniture",
+      "defname": "JDSS_PotB",
+      "price": -10
+    },
+    {
+      "abr": "potclothcovera",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cloth_CoverA",
+      "price": -10
+    },
+    {
+      "abr": "potclothcoverb",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cloth_CoverB",
+      "price": -10
+    },
+    {
+      "abr": "potclothcoverc",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cloth_CoverC",
+      "price": -10
+    },
+    {
+      "abr": "potclothcoverd",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cloth_CoverD",
+      "price": -10
+    },
+    {
+      "abr": "potclothcovere",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cloth_CoverE",
+      "price": -10
+    },
+    {
+      "abr": "potclothcoverf",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cloth_CoverF",
+      "price": -10
+    },
+    {
+      "abr": "potclothcoverseala",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cloth_Cover_SealA",
+      "price": -10
+    },
+    {
+      "abr": "potclothcoversealb",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cloth_Cover_SealB",
+      "price": -10
+    },
+    {
+      "abr": "potclothcoversealc",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cloth_Cover_SealC",
+      "price": -10
+    },
+    {
+      "abr": "potclothcoverseald",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cloth_Cover_SealD",
+      "price": -10
+    },
+    {
+      "abr": "potclothcoverseale",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cloth_Cover_SealE",
+      "price": -10
+    },
+    {
+      "abr": "potclothcoversealf",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cloth_Cover_SealF",
+      "price": -10
+    },
+    {
+      "abr": "potcovera",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_CoverA",
+      "price": -10
+    },
+    {
+      "abr": "potcoverb",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_CoverB",
+      "price": -10
+    },
+    {
+      "abr": "potcoverc",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_CoverC",
+      "price": -10
+    },
+    {
+      "abr": "potcoverd",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_CoverD",
+      "price": -10
+    },
+    {
+      "abr": "potcovere",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_CoverE",
+      "price": -10
+    },
+    {
+      "abr": "potcoverf",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_CoverF",
+      "price": -10
+    },
+    {
+      "abr": "potcoverseala",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cover_SealA",
+      "price": -10
+    },
+    {
+      "abr": "potcoversealb",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cover_SealB",
+      "price": -10
+    },
+    {
+      "abr": "potcoversealc",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cover_SealC",
+      "price": -10
+    },
+    {
+      "abr": "potcoverseald",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cover_SealD",
+      "price": -10
+    },
+    {
+      "abr": "potcoverseale",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cover_SealE",
+      "price": -10
+    },
+    {
+      "abr": "potcoversealf",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Cover_SealF",
+      "price": -10
+    },
+    {
+      "abr": "potd",
+      "category": "Furniture",
+      "defname": "JDSS_PotD",
+      "price": -10
+    },
+    {
+      "abr": "pote",
+      "category": "Furniture",
+      "defname": "JDSS_PotE",
+      "price": -10
+    },
+    {
+      "abr": "potf",
+      "category": "Furniture",
+      "defname": "JDSS_PotF",
+      "price": -10
+    },
+    {
+      "abr": "potwoodencovera",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Wooden_CoverA",
+      "price": -10
+    },
+    {
+      "abr": "potwoodencoverb",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Wooden_CoverB",
+      "price": -10
+    },
+    {
+      "abr": "potwoodencoverc",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Wooden_CoverC",
+      "price": -10
+    },
+    {
+      "abr": "potwoodencoverd",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Wooden_CoverD",
+      "price": -10
+    },
+    {
+      "abr": "potwoodencovere",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Wooden_CoverE",
+      "price": -10
+    },
+    {
+      "abr": "potwoodencoverf",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Wooden_CoverF",
+      "price": -10
+    },
+    {
+      "abr": "potwoodencoverseala",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Wooden_Cover_SealA",
+      "price": -10
+    },
+    {
+      "abr": "potwoodencoversealb",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Wooden_Cover_SealB",
+      "price": -10
+    },
+    {
+      "abr": "potwoodencoversealb",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Wooden_Cover_SealD",
+      "price": -10
+    },
+    {
+      "abr": "potwoodencoversealc",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Wooden_Cover_SealC",
+      "price": -10
+    },
+    {
+      "abr": "potwoodencoverseale",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Wooden_Cover_SealE",
+      "price": -10
+    },
+    {
+      "abr": "potwoodencoversealf",
+      "category": "Furniture",
+      "defname": "JDSS_Pot_Wooden_Cover_SealF",
+      "price": -10
+    },
+    {
+      "abr": "refrigeratedcargocontainerblack",
+      "category": "Furniture",
+      "defname": "JDSS_Refrigerated_Cargo_Container_Black",
+      "price": -10
+    },
+    {
+      "abr": "refrigeratedcargocontainerblue",
+      "category": "Furniture",
+      "defname": "JDSS_Refrigerated_Cargo_Container_Blue",
+      "price": -10
+    },
+    {
+      "abr": "refrigeratedcargocontainergreen",
+      "category": "Furniture",
+      "defname": "JDSS_Refrigerated_Cargo_Container_Green",
+      "price": -10
+    },
+    {
+      "abr": "refrigeratedcargocontainerred",
+      "category": "Furniture",
+      "defname": "JDSS_Refrigerated_Cargo_Container_Red",
+      "price": -10
+    },
+    {
+      "abr": "refrigeratedcargocontaineryellow",
+      "category": "Furniture",
+      "defname": "JDSS_Refrigerated_Cargo_Container_Yellow",
+      "price": -10
+    },
+    {
+      "abr": "reinforcedwall(embrasured)",
+      "category": "Misc",
+      "defname": "GL_HeavyWallEmb",
+      "price": -10
+    },
+    {
+      "abr": "sacka",
+      "category": "Furniture",
+      "defname": "JDSS_SackA",
+      "price": -10
+    },
+    {
+      "abr": "sackb",
+      "category": "Furniture",
+      "defname": "JDSS_SackB",
+      "price": -10
+    },
+    {
+      "abr": "sackc",
+      "category": "Furniture",
+      "defname": "JDSS_SackC",
+      "price": -10
+    },
+    {
+      "abr": "sackd",
+      "category": "Furniture",
+      "defname": "JDSS_SackD",
+      "price": -10
+    },
+    {
+      "abr": "shippingcratea",
+      "category": "Furniture",
+      "defname": "JDSS_Shipping_CrateA",
+      "price": -10
+    },
+    {
+      "abr": "shippingcrateb",
+      "category": "Furniture",
+      "defname": "JDSS_Shipping_CrateB",
+      "price": -10
+    },
+    {
+      "abr": "shippingcratec",
+      "category": "Furniture",
+      "defname": "JDSS_Shipping_CrateC",
+      "price": -10
+    },
+    {
+      "abr": "shippingcrated",
+      "category": "Furniture",
+      "defname": "JDSS_Shipping_CrateD",
+      "price": -10
+    },
+    {
+      "abr": "shippingcratee",
+      "category": "Furniture",
+      "defname": "JDSS_Shipping_CrateE",
+      "price": -10
+    },
+    {
+      "abr": "shippingcratef",
+      "category": "Furniture",
+      "defname": "JDSS_Shipping_CrateF",
+      "price": -10
+    },
+    {
+      "abr": "silo",
+      "category": "Furniture",
+      "defname": "JDSS_Silo",
+      "price": -10
+    },
+    {
+      "abr": "sterilewallgloomy",
+      "category": "Misc",
+      "defname": "GL_SterileWall",
+      "price": -10
+    },
+    {
+      "abr": "storageshed",
+      "category": "Furniture",
+      "defname": "JDSS_Storage_Shed",
+      "price": -10
+    },
+    {
+      "abr": "storagetote",
+      "category": "Furniture",
+      "defname": "JDSS_Storage_Tote",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsa",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsA",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsb",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsB",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsc",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsC",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsd",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsD",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetse",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsE",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsf",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsF",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsg",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsG",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsh",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsH",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsi",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsI",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsj",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsJ",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsk",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsK",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsl",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsL",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsm",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsM",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsn",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetN",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetso",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsO",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsp",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsP",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsq",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsQ",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsr",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsR",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetss",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsS",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetst",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsT",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsu",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsU",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsv",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsV",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsw",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsW",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsx",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsX",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsy",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsY",
+      "price": -10
+    },
+    {
+      "abr": "weaponcabinetsz",
+      "category": "Furniture",
+      "defname": "JDSS_Weapon_CabinetsZ",
+      "price": -10
+    },
+    {
+      "abr": "woodenbarrela",
+      "category": "Furniture",
+      "defname": "JDSS_WoodenA",
+      "price": -10
+    },
+    {
+      "abr": "woodenbarrelopen",
+      "category": "Furniture",
+      "defname": "JDSS_Wooden_Barrel_Open",
+      "price": -10
+    },
+    {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
-      "price": 155
+      "price": -10
     },
     {
       "abr": "guestdoublebed",
       "category": "Furniture",
       "defname": "DoubleBedGuest",
-      "price": 292
+      "price": -10
     },
     {
       "abr": "guestroyalbed",
       "category": "Furniture",
       "defname": "RoyalBedGuest",
-      "price": 1467
+      "price": -10
     },
     {
       "abr": "guesthospitalbed",
       "category": "Furniture",
       "defname": "HospitalBedGuest",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "guestbedroll",
       "category": "Furniture",
       "defname": "BedrollGuest",
-      "price": 137
+      "price": -10
     },
     {
       "abr": "guestdoublebedroll",
       "category": "Furniture",
       "defname": "BedrollDoubleGuest",
-      "price": 290
+      "price": -10
     },
     {
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "AncientBedGuest",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "SlabBedGuest",
-      "price": 102
+      "price": -10
     },
     {
       "abr": "guestslabdoublebed",
       "category": "Furniture",
       "defname": "SlabDoubleBedGuest",
-      "price": 288
+      "price": -10
     },
     {
       "abr": "guestdeathrestcasket",
       "category": "Misc",
       "defname": "DeathrestCasketGuest",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "guestcrib",
       "category": "Furniture",
       "defname": "CribGuest",
-      "price": 86
+      "price": -10
     },
     {
       "abr": "guestre-ambulationpod",
       "category": "Furniture",
       "defname": "ambTableGuest",
-      "price": 8258
-    },
-    {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "RGK_bedSingleGuest",
-      "price": 155
-    },
-    {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "RGK_bedSingleBGuest",
-      "price": 155
-    },
-    {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "RGK_bedDoubleGuest",
-      "price": 292
-    },
-    {
-      "abr": "guestdoublebed2",
-      "category": "Furniture",
-      "defname": "RGK_bedDoubleBGuest",
-      "price": 292
-    },
-    {
-      "abr": "guestclassydoublebed",
-      "category": "Furniture",
-      "defname": "GL_ClassyDoubleBedGuest",
-      "price": 942
-    },
-    {
-      "abr": "guestoperatingtable",
-      "category": "Furniture",
-      "defname": "Bed_OperatingTableGuest",
-      "price": 508
-    },
-    {
-      "abr": "guestcryptosleepsuspender",
-      "category": "Furniture",
-      "defname": "Bed_CryptoBedGuest",
-      "price": 733
+      "price": -10
     },
     {
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "Bed_StoneSlabGuest",
-      "price": 111
+      "price": -10
     },
     {
       "abr": "guestsimplebed",
       "category": "Furniture",
       "defname": "Bed_SimpleGuest",
-      "price": 137
+      "price": -10
     },
     {
       "abr": "guestergonomicbed",
       "category": "Furniture",
       "defname": "Bed_ErgonomicGuest",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "guestergonomicdoublebed",
       "category": "Furniture",
       "defname": "Bed_DoubleErgonomicGuest",
-      "price": 867
+      "price": -10
     },
     {
       "abr": "guestroyalposterbed",
       "category": "Furniture",
       "defname": "Bed_KingsizeGuest",
-      "price": 2008
+      "price": -10
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "RGK_bedSingleGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "RGK_bedSingleBGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "RGK_bedDoubleGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestdoublebed2",
+      "category": "Furniture",
+      "defname": "RGK_bedDoubleBGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestclassydoublebed",
+      "category": "Furniture",
+      "defname": "GL_ClassyDoubleBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestoperatingtable",
+      "category": "Furniture",
+      "defname": "Bed_OperatingTableGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestcryptosleepsuspender",
+      "category": "Furniture",
+      "defname": "Bed_CryptoBedGuest",
+      "price": -10
     },
     {
       "abr": "guestadvancedbed",
       "category": "Furniture",
       "defname": "Bed_AdvBedGuest",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "guestadvanceddoublebed",
       "category": "Furniture",
       "defname": "Bed_AdvDoubleBedGuest",
-      "price": 1483
+      "price": -10
     },
     {
       "abr": "guestandroidstand",
       "category": "Misc",
       "defname": "VREA_AndroidStandGuest",
-      "price": 166
+      "price": -10
     },
     {
       "abr": "guestneutrocasket",
       "category": "Furniture",
       "defname": "VREA_NeutroCasketGuest",
-      "price": 750
+      "price": -10
     }
   ],
-  "total": 3423
+  "total": 3580
 }
