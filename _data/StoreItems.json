@@ -1150,7 +1150,7 @@
       "abr": "pants",
       "category": "Misc",
       "defname": "Apparel_Pants",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "t-shirt",
@@ -7279,34 +7279,10 @@
       "price": 2
     },
     {
-      "abr": "bed",
-      "category": "Furniture",
-      "defname": "RGK_bedSingle",
-      "price": -10
-    },
-    {
-      "abr": "bed",
-      "category": "Furniture",
-      "defname": "RGK_bedSingleB",
-      "price": -10
-    },
-    {
-      "abr": "bench",
-      "category": "Furniture",
-      "defname": "GL_Bench",
-      "price": -10
-    },
-    {
       "abr": "betapoly",
       "category": "Raw resources",
       "defname": "BetaPoly",
       "price": 392
-    },
-    {
-      "abr": "billiardstable",
-      "category": "Furniture",
-      "defname": "GL_BilliardsTable",
-      "price": -10
     },
     {
       "abr": "biomechanicallabbeacon",
@@ -7411,21 +7387,9 @@
       "price": -10
     },
     {
-      "abr": "bonfire",
-      "category": "Furniture",
-      "defname": "GL_Bonfire",
-      "price": -10
-    },
-    {
       "abr": "bookcase",
       "category": "Furniture",
       "defname": "Bookcase",
-      "price": -10
-    },
-    {
-      "abr": "bookshelf",
-      "category": "Furniture",
-      "defname": "GL_Bookshelf",
       "price": -10
     },
     {
@@ -7519,36 +7483,6 @@
       "price": -10
     },
     {
-      "abr": "boundarystone",
-      "category": "Misc",
-      "defname": "GL_BoundaryWood",
-      "price": -10
-    },
-    {
-      "abr": "boundarystone",
-      "category": "Misc",
-      "defname": "GL_BoundaryStone",
-      "price": -10
-    },
-    {
-      "abr": "boundarystonecorner",
-      "category": "Misc",
-      "defname": "GL_BoundaryStoneCorner",
-      "price": -10
-    },
-    {
-      "abr": "boundarywoodcorner",
-      "category": "Misc",
-      "defname": "GL_BoundaryWoodCorner",
-      "price": -10
-    },
-    {
-      "abr": "bowl",
-      "category": "Furniture",
-      "defname": "RGK_DogBowl",
-      "price": -10
-    },
-    {
       "abr": "brass",
       "category": "Metals and alloys",
       "defname": "CAL_Brass",
@@ -7567,21 +7501,9 @@
       "price": -10
     },
     {
-      "abr": "bucket",
-      "category": "Furniture",
-      "defname": "RGK_bucketr",
-      "price": -10
-    },
-    {
       "abr": "burnbarrel",
       "category": "Misc",
       "defname": "VRE_BurnBarrel",
-      "price": -10
-    },
-    {
-      "abr": "butchertable",
-      "category": "Production",
-      "defname": "GL_TableButcher",
       "price": -10
     },
     {
@@ -7717,12 +7639,6 @@
       "price": -10
     },
     {
-      "abr": "chair",
-      "category": "Furniture",
-      "defname": "RGK_Chair",
-      "price": -10
-    },
-    {
       "abr": "chargecomplex",
       "category": "Misc",
       "defname": "VFES_Turret_ChargeComplex",
@@ -7805,12 +7721,6 @@
       "category": "Raw fruits",
       "defname": "VCE_RawCherry",
       "price": 2
-    },
-    {
-      "abr": "chesstable",
-      "category": "Furniture",
-      "defname": "GL_ChessTable",
-      "price": -10
     },
     {
       "abr": "chickenmeat",
@@ -8062,108 +7972,6 @@
       "abr": "circuitbreaker",
       "category": "Power",
       "defname": "Building_RTCircuitBreaker",
-      "price": -10
-    },
-    {
-      "abr": "claasicrug(3x3)",
-      "category": "Furniture",
-      "defname": "RugA_Small",
-      "price": -10
-    },
-    {
-      "abr": "claasicrug(3x3)",
-      "category": "Furniture",
-      "defname": "RugB_Small",
-      "price": -10
-    },
-    {
-      "abr": "claasicrug(3x3)",
-      "category": "Furniture",
-      "defname": "RugC_Small",
-      "price": -10
-    },
-    {
-      "abr": "claasicrug(4x4)",
-      "category": "Furniture",
-      "defname": "RugA",
-      "price": -10
-    },
-    {
-      "abr": "claasicrug(4x4)",
-      "category": "Furniture",
-      "defname": "RugB",
-      "price": -10
-    },
-    {
-      "abr": "claasicrug(4x4)",
-      "category": "Furniture",
-      "defname": "RugC",
-      "price": -10
-    },
-    {
-      "abr": "claasicrug(5x5",
-      "category": "Furniture",
-      "defname": "RugB_Large",
-      "price": -10
-    },
-    {
-      "abr": "claasicrug(5x5",
-      "category": "Furniture",
-      "defname": "RugC_Large",
-      "price": -10
-    },
-    {
-      "abr": "claasicrug(5x5)",
-      "category": "Furniture",
-      "defname": "RugA_Large",
-      "price": -10
-    },
-    {
-      "abr": "classicdoor",
-      "category": "Misc",
-      "defname": "RGK_DoorOld",
-      "price": -10
-    },
-    {
-      "abr": "classictable(2x1)",
-      "category": "Furniture",
-      "defname": "RGK_TableE",
-      "price": -10
-    },
-    {
-      "abr": "classictable(2x2)",
-      "category": "Furniture",
-      "defname": "RGK_TableB",
-      "price": -10
-    },
-    {
-      "abr": "classictable(2x2)",
-      "category": "Furniture",
-      "defname": "RGK_TableD",
-      "price": -10
-    },
-    {
-      "abr": "classictable(2x2)",
-      "category": "Furniture",
-      "defname": "RGK_TableG",
-      "price": -10
-    },
-    {
-      "abr": "classictable(3x2)",
-      "category": "Furniture",
-      "defname": "RGK_TableF",
-      "price": -10
-    },
-    {
-      "abr": "classictable(3x3)",
-      "category": "Furniture",
-      "defname": "RGK_TableH",
-      "price": -10
-    },
-    {
-      "abr": "classydoublebed",
-      "category": "Furniture",
-      "defname": "GL_ClassyDoubleBed",
       "price": -10
     },
     {
@@ -8515,12 +8323,6 @@
       "price": 2
     },
     {
-      "abr": "cupboard",
-      "category": "Misc",
-      "defname": "GL_Cupboard",
-      "price": -10
-    },
-    {
       "abr": "cupronickel",
       "category": "Metals and alloys",
       "defname": "CAL_Cupronickel",
@@ -8737,12 +8539,6 @@
       "price": 2500
     },
     {
-      "abr": "diningchair",
-      "category": "Furniture",
-      "defname": "RGKDiningChair",
-      "price": -10
-    },
-    {
       "abr": "direwolf",
       "category": "Animals",
       "defname": "TM_Dire_WolfR",
@@ -8803,18 +8599,6 @@
       "price": -10
     },
     {
-      "abr": "door",
-      "category": "Misc",
-      "defname": "RGK_Door",
-      "price": -10
-    },
-    {
-      "abr": "doorframe",
-      "category": "Misc",
-      "defname": "GL_DoorFrame",
-      "price": -10
-    },
-    {
       "abr": "doormat",
       "category": "Furniture",
       "defname": "LT_DoorMatLeather",
@@ -8857,18 +8641,6 @@
       "price": -10
     },
     {
-      "abr": "doublebed",
-      "category": "Furniture",
-      "defname": "RGK_bedDouble",
-      "price": -10
-    },
-    {
-      "abr": "doublebed2",
-      "category": "Furniture",
-      "defname": "RGK_bedDoubleB",
-      "price": -10
-    },
-    {
       "abr": "double-agedwhiskey",
       "category": "Drugs",
       "defname": "VBE_DoubleWhiskey",
@@ -8897,12 +8669,6 @@
       "category": "Magic apparel",
       "defname": "TM_DreamcatcherCoronet",
       "price": 3008
-    },
-    {
-      "abr": "dresser",
-      "category": "Furniture",
-      "defname": "RGK_Dresser",
-      "price": -10
     },
     {
       "abr": "driveactuator",
@@ -9037,27 +8803,9 @@
       "price": -10
     },
     {
-      "abr": "electricsmithy",
-      "category": "Production",
-      "defname": "GL_ElectricSmithy",
-      "price": -10
-    },
-    {
       "abr": "electricstonecutter'stable",
       "category": "Production",
       "defname": "VFE_TableStonecutterElectric",
-      "price": -10
-    },
-    {
-      "abr": "electricstove",
-      "category": "Production",
-      "defname": "GL_ElectricStove",
-      "price": -10
-    },
-    {
-      "abr": "electrictailorbench",
-      "category": "Production",
-      "defname": "GL_ElectricTailoringBench",
       "price": -10
     },
     {
@@ -9235,24 +8983,6 @@
       "price": 3333
     },
     {
-      "abr": "endtable",
-      "category": "Furniture",
-      "defname": "RGK_EndTable",
-      "price": -10
-    },
-    {
-      "abr": "endtable",
-      "category": "Furniture",
-      "defname": "RGK_EndTableWithLamp",
-      "price": -10
-    },
-    {
-      "abr": "endtable",
-      "category": "Furniture",
-      "defname": "RGK_EndTableWithLampE",
-      "price": -10
-    },
-    {
       "abr": "energydrink",
       "category": "Drugs",
       "defname": "VBE_EnergyDrink",
@@ -9364,12 +9094,6 @@
       "abr": "fence",
       "category": "Misc",
       "defname": "Fence",
-      "price": -10
-    },
-    {
-      "abr": "fence",
-      "category": "Misc",
-      "defname": "RGK_WoodFence",
       "price": -10
     },
     {
@@ -9523,18 +9247,6 @@
       "price": -10
     },
     {
-      "abr": "fireplace",
-      "category": "Furniture",
-      "defname": "RGK_Fireplace",
-      "price": -10
-    },
-    {
-      "abr": "fireplacee",
-      "category": "Furniture",
-      "defname": "RGK_FireplaceE",
-      "price": -10
-    },
-    {
       "abr": "firespell:cauterizewound",
       "category": "Scrolls",
       "defname": "SpellOf_CauterizeWound",
@@ -9613,12 +9325,6 @@
       "price": 3
     },
     {
-      "abr": "flowerwall",
-      "category": "Misc",
-      "defname": "GL_FlowerWall",
-      "price": -10
-    },
-    {
       "abr": "foxmeat",
       "category": "Meat",
       "defname": "Meat_Fox_Fennec",
@@ -9658,18 +9364,6 @@
       "abr": "fueledsmelter",
       "category": "Production",
       "defname": "VFE_FueledSmelter",
-      "price": -10
-    },
-    {
-      "abr": "fueledsmithy",
-      "category": "Production",
-      "defname": "GL_FueledSmithy",
-      "price": -10
-    },
-    {
-      "abr": "fueledstove",
-      "category": "Production",
-      "defname": "RGK_FueledStove",
       "price": -10
     },
     {
@@ -10993,12 +10687,6 @@
       "price": 3
     },
     {
-      "abr": "handtailorbench",
-      "category": "Production",
-      "defname": "GL_HandTailoringBench",
-      "price": -10
-    },
-    {
       "abr": "handheldgatlinggun",
       "category": "Ranged weapons",
       "defname": "VWEFT_Gun_HandheldGatlingGun",
@@ -11815,12 +11503,6 @@
       "price": -10
     },
     {
-      "abr": "jukebox",
-      "category": "Recreation",
-      "defname": "JukeBox",
-      "price": -10
-    },
-    {
       "abr": "kangaroo",
       "category": "Animals",
       "defname": "AEXP_Kangaroo",
@@ -11881,45 +11563,9 @@
       "price": 3
     },
     {
-      "abr": "lamp",
-      "category": "Furniture",
-      "defname": "RGK_lamp",
-      "price": -10
-    },
-    {
-      "abr": "lampe",
-      "category": "Furniture",
-      "defname": "RGK_lampE",
-      "price": -10
-    },
-    {
-      "abr": "lampe(white)",
-      "category": "Furniture",
-      "defname": "GL_lampE_White",
-      "price": -10
-    },
-    {
       "abr": "lampendtable",
       "category": "Furniture",
       "defname": "Table_LightEndTable",
-      "price": -10
-    },
-    {
-      "abr": "lampm",
-      "category": "Furniture",
-      "defname": "RGK_LampM",
-      "price": -10
-    },
-    {
-      "abr": "lampm(white)",
-      "category": "Furniture",
-      "defname": "GL_LampM_White",
-      "price": -10
-    },
-    {
-      "abr": "lamp(white)",
-      "category": "Furniture",
-      "defname": "GL_lamp_White",
       "price": -10
     },
     {
@@ -12269,12 +11915,6 @@
       "category": "Raw fish",
       "defname": "VCEF_RawLobster",
       "price": 9
-    },
-    {
-      "abr": "locker",
-      "category": "Furniture",
-      "defname": "GL_Locker",
-      "price": -10
     },
     {
       "abr": "logwall",
@@ -12679,12 +12319,6 @@
       "price": -10
     },
     {
-      "abr": "manger",
-      "category": "Furniture",
-      "defname": "RGK_Manger",
-      "price": -10
-    },
-    {
       "abr": "mangoes",
       "category": "Raw fruits",
       "defname": "VCE_Mangoes",
@@ -13084,18 +12718,6 @@
       "abr": "miniquarry",
       "category": "Misc",
       "defname": "QRY_MiniQuarry",
-      "price": -10
-    },
-    {
-      "abr": "minitable",
-      "category": "Furniture",
-      "defname": "RGK_MiniTableA",
-      "price": -10
-    },
-    {
-      "abr": "minitable",
-      "category": "Furniture",
-      "defname": "RGK_MiniTableB",
       "price": -10
     },
     {
@@ -13687,12 +13309,6 @@
       "price": -10
     },
     {
-      "abr": "oakbarrel",
-      "category": "Furniture",
-      "defname": "RGK_orc",
-      "price": -10
-    },
-    {
       "abr": "oats",
       "category": "Vegetarian",
       "defname": "VCE_RawOats",
@@ -14219,12 +13835,6 @@
       "category": "Drugs",
       "defname": "GR_PoisonAmpoule",
       "price": 100
-    },
-    {
-      "abr": "pokertable",
-      "category": "Furniture",
-      "defname": "GL_PokerTable",
-      "price": -10
     },
     {
       "abr": "pollutionfastpump",
@@ -14777,12 +14387,6 @@
       "category": "Prosthetic",
       "defname": "SimpleSpine",
       "price": 433
-    },
-    {
-      "abr": "replicaflower",
-      "category": "Furniture",
-      "defname": "RGK_Flower",
-      "price": -10
     },
     {
       "abr": "reptilegenome",
@@ -15385,12 +14989,6 @@
       "price": 3
     },
     {
-      "abr": "shelf",
-      "category": "Furniture",
-      "defname": "GL_Shelf",
-      "price": -10
-    },
-    {
       "abr": "shield",
       "category": "Misc",
       "defname": "Shield",
@@ -15505,12 +15103,6 @@
       "price": -10
     },
     {
-      "abr": "simplechair",
-      "category": "Furniture",
-      "defname": "RGK_SimpleChair",
-      "price": -10
-    },
-    {
       "abr": "simplecocktail",
       "category": "Meals",
       "defname": "VBE_SimpleCocktail",
@@ -15544,12 +15136,6 @@
       "abr": "simpleprostheticanimaltail",
       "category": "Animal Body Part",
       "defname": "ProstheticTailAnimal",
-      "price": -10
-    },
-    {
-      "abr": "simpleresearchbench",
-      "category": "Production",
-      "defname": "RGK_SimpleResearchBench",
       "price": -10
     },
     {
@@ -16027,54 +15613,6 @@
       "price": -10
     },
     {
-      "abr": "streetlamp",
-      "category": "Misc",
-      "defname": "RGK_Street_Lamp_L",
-      "price": -10
-    },
-    {
-      "abr": "streetlamp",
-      "category": "Misc",
-      "defname": "RGK_Street_Lamp",
-      "price": -10
-    },
-    {
-      "abr": "streetlamp",
-      "category": "Misc",
-      "defname": "RGK_Street_Lamp_Seven",
-      "price": -10
-    },
-    {
-      "abr": "streetlampe",
-      "category": "Misc",
-      "defname": "RGK_Street_Lamp_SevenE",
-      "price": -10
-    },
-    {
-      "abr": "streetlampe(white)",
-      "category": "Misc",
-      "defname": "GL_Street_Lamp_White",
-      "price": -10
-    },
-    {
-      "abr": "streetlampe(white)",
-      "category": "Misc",
-      "defname": "GL_Street_Lamp_SevenE_White",
-      "price": -10
-    },
-    {
-      "abr": "streetlamp(white)",
-      "category": "Misc",
-      "defname": "GL_Street_Lamp_L_White",
-      "price": -10
-    },
-    {
-      "abr": "streetlamp(white)",
-      "category": "Misc",
-      "defname": "GL_Street_Lamp_Seven_White",
-      "price": -10
-    },
-    {
       "abr": "strikerskill:howlingfist",
       "category": "Scrolls",
       "defname": "SkillOf_HowlingFist",
@@ -16309,24 +15847,6 @@
       "price": -10
     },
     {
-      "abr": "table(2x2)",
-      "category": "Furniture",
-      "defname": "RGK_TableA",
-      "price": -10
-    },
-    {
-      "abr": "table(2x2)",
-      "category": "Furniture",
-      "defname": "RGK_TableC",
-      "price": -10
-    },
-    {
-      "abr": "tablewareshelf",
-      "category": "Misc",
-      "defname": "GL_TablewareShelf",
-      "price": -10
-    },
-    {
       "abr": "tacs",
       "category": "Misc",
       "defname": "RadarDish",
@@ -16393,12 +15913,6 @@
       "price": 2
     },
     {
-      "abr": "teaset",
-      "category": "Furniture",
-      "defname": "RGK_Teaset",
-      "price": -10
-    },
-    {
       "abr": "technomancerspell:kineticshield",
       "category": "Scrolls",
       "defname": "SpellOf_TechnoShield",
@@ -16427,12 +15941,6 @@
       "category": "Scrolls",
       "defname": "SpellOf_Sabotage",
       "price": 667
-    },
-    {
-      "abr": "teddybear",
-      "category": "Furniture",
-      "defname": "GL_Teddy",
-      "price": -10
     },
     {
       "abr": "temaki(lavish)",
@@ -17047,12 +16555,6 @@
       "price": 2
     },
     {
-      "abr": "tubetelevision",
-      "category": "Recreation",
-      "defname": "GL_TubeTelevision",
-      "price": -10
-    },
-    {
       "abr": "tuna",
       "category": "Raw fish",
       "defname": "VCEF_RawTuna",
@@ -17245,18 +16747,6 @@
       "price": -10
     },
     {
-      "abr": "ventwall",
-      "category": "Misc",
-      "defname": "RGK_VentWall",
-      "price": -10
-    },
-    {
-      "abr": "ventwall",
-      "category": "Misc",
-      "defname": "GL_VentWall",
-      "price": -10
-    },
-    {
       "abr": "vitalscentre",
       "category": "Misc",
       "defname": "Facility_VitalsCentre",
@@ -17299,18 +16789,6 @@
       "price": -10
     },
     {
-      "abr": "wall",
-      "category": "Misc",
-      "defname": "RGK_Wall",
-      "price": -10
-    },
-    {
-      "abr": "wall",
-      "category": "Misc",
-      "defname": "GL_Wall",
-      "price": -10
-    },
-    {
       "abr": "wallbluelight",
       "category": "Misc",
       "defname": "WallLight_Blue",
@@ -17338,30 +16816,6 @@
       "abr": "walllamp",
       "category": "Furniture",
       "defname": "WallLamp",
-      "price": -10
-    },
-    {
-      "abr": "walllamp",
-      "category": "Misc",
-      "defname": "GL_Wall_Lamp",
-      "price": -10
-    },
-    {
-      "abr": "walllampe",
-      "category": "Misc",
-      "defname": "GL_Wall_LampE",
-      "price": -10
-    },
-    {
-      "abr": "walllampe(white)",
-      "category": "Misc",
-      "defname": "GL_Wall_LampE_White",
-      "price": -10
-    },
-    {
-      "abr": "walllamp(white)",
-      "category": "Misc",
-      "defname": "GL_Wall_Lamp_White",
       "price": -10
     },
     {
@@ -17495,18 +16949,6 @@
       "category": "Scrolls",
       "defname": "SpellOf_MagneticAura",
       "price": 2667
-    },
-    {
-      "abr": "wardrobe",
-      "category": "Furniture",
-      "defname": "WardrobeA",
-      "price": -10
-    },
-    {
-      "abr": "wardrobe",
-      "category": "Furniture",
-      "defname": "WardrobeB",
-      "price": -10
     },
     {
       "abr": "wardrobe",
@@ -17785,30 +17227,6 @@
       "price": -10
     },
     {
-      "abr": "window",
-      "category": "Furniture",
-      "defname": "RGK_window",
-      "price": -10
-    },
-    {
-      "abr": "windowwall",
-      "category": "Misc",
-      "defname": "RGK_WindowWall",
-      "price": -10
-    },
-    {
-      "abr": "windowwall",
-      "category": "Misc",
-      "defname": "GL_WindowWall",
-      "price": -10
-    },
-    {
-      "abr": "winerack",
-      "category": "Furniture",
-      "defname": "RKGWineRackB",
-      "price": -10
-    },
-    {
       "abr": "winter'sreign",
       "category": "Magic foci",
       "defname": "TM_WinterStaff",
@@ -18043,18 +17461,6 @@
       "price": -10
     },
     {
-      "abr": "aetherlance",
-      "category": "Ranged weapons",
-      "defname": "ARR_AetherLance",
-      "price": 2033
-    },
-    {
-      "abr": "aetherialrobe",
-      "category": "A Rim Reborn",
-      "defname": "ARR_CasterRobeBasic",
-      "price": 288
-    },
-    {
       "abr": "aethericcarbine",
       "category": "Ranged weapons",
       "defname": "ARR_Carbine",
@@ -18127,12 +17533,6 @@
       "price": -10
     },
     {
-      "abr": "aethericmortar",
-      "category": "Security",
-      "defname": "ARR_AethericMortar",
-      "price": 2392
-    },
-    {
       "abr": "aethericpreptable",
       "category": "Production",
       "defname": "ARR_AetherPrepTable",
@@ -18143,24 +17543,6 @@
       "category": "Production",
       "defname": "ARR_AetherPrepTableLinked",
       "price": -10
-    },
-    {
-      "abr": "aethericpulseturret",
-      "category": "Security",
-      "defname": "ARR_AethericPulseTurret",
-      "price": 908
-    },
-    {
-      "abr": "aethericshell",
-      "category": "Aetheric shells",
-      "defname": "ARR_AethericShell",
-      "price": 92
-    },
-    {
-      "abr": "aethericshieldbelt",
-      "category": "Utility",
-      "defname": "ARR_AethericShieldBelt",
-      "price": 600
     },
     {
       "abr": "aethericspear",
@@ -18295,30 +17677,6 @@
       "price": 133
     },
     {
-      "abr": "arcanist'sgrimoire",
-      "category": "Disciple of magic",
-      "defname": "ARR_Weapon_Arcanist_Basic",
-      "price": 383
-    },
-    {
-      "abr": "archer'sbow",
-      "category": "Disciple of war",
-      "defname": "ARR_Weapon_Archer_Basic",
-      "price": 392
-    },
-    {
-      "abr": "artemisbow",
-      "category": "Disciple of war",
-      "defname": "ARR_RelicWeapon_ArtemisBow",
-      "price": 5000
-    },
-    {
-      "abr": "artificialsun",
-      "category": "A Rim Reborn",
-      "defname": "ARR_ArtificialSun",
-      "price": -10
-    },
-    {
       "abr": "arx160",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_ARX160_AR",
@@ -18403,18 +17761,6 @@
       "price": 967
     },
     {
-      "abr": "bloodshoremandrake",
-      "category": "Alchemical herbs",
-      "defname": "ARR_Mandrake",
-      "price": 3
-    },
-    {
-      "abr": "bravura",
-      "category": "Disciple of war",
-      "defname": "ARR_RelicWeapon_Bravura",
-      "price": 5000
-    },
-    {
       "abr": "bren",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_BREN_LMG",
@@ -18431,12 +17777,6 @@
       "category": "Misc",
       "defname": "ARR_CelestialAccumulator",
       "price": -10
-    },
-    {
-      "abr": "conjurer'scane",
-      "category": "Disciple of magic",
-      "defname": "ARR_Weapon_Conjurer_Basic",
-      "price": 392
     },
     {
       "abr": "crystalsand",
@@ -18469,12 +17809,6 @@
       "price": 350
     },
     {
-      "abr": "curtana",
-      "category": "Disciple of war",
-      "defname": "ARR_RelicWeapon_Curtana",
-      "price": 5000
-    },
-    {
       "abr": "cz75",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_CZ75_P",
@@ -18491,12 +17825,6 @@
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_CZ805_AR",
       "price": 800
-    },
-    {
-      "abr": "darkknight'sclaymore",
-      "category": "Disciple of war",
-      "defname": "ARR_Weapon_DarkKnight_Basic",
-      "price": 392
     },
     {
       "abr": "deserteagle.357",
@@ -18580,13 +17908,7 @@
       "abr": "eorzeanseedstock",
       "category": "A Rim Reborn",
       "defname": "ARR_SeedStock",
-      "price": -10
-    },
-    {
-      "abr": "ether",
-      "category": "Potions",
-      "defname": "ARR_PotionEther",
-      "price": 83
+      "price": 1500
     },
     {
       "abr": "f2000",
@@ -18617,12 +17939,6 @@
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_FD338_DMR",
       "price": 1025
-    },
-    {
-      "abr": "ferdinand",
-      "category": "Disciple of war",
-      "defname": "ARR_RelicWeapon_Ferdinand",
-      "price": 5000
     },
     {
       "abr": "firecrystal",
@@ -18679,12 +17995,6 @@
       "price": 967
     },
     {
-      "abr": "gaebolg",
-      "category": "Disciple of war",
-      "defname": "ARR_RelicWeapon_GaeBolg",
-      "price": 5000
-    },
-    {
       "abr": "geothermalaccumulator",
       "category": "Misc",
       "defname": "ARR_GeothermalAccumulator",
@@ -18701,12 +18011,6 @@
       "category": "A Rim Reborn",
       "defname": "ARR_FloorLampGlade",
       "price": -10
-    },
-    {
-      "abr": "gladiator'sbastardsword",
-      "category": "Disciple of war",
-      "defname": "ARR_Weapon_Gladiator_Basic",
-      "price": 392
     },
     {
       "abr": "glamourtable",
@@ -18739,34 +18043,10 @@
       "price": 151
     },
     {
-      "abr": "glamouredpowerarmor",
-      "category": "A Rim Reborn",
-      "defname": "ARR_HybridPowerArmorGlamoured",
-      "price": 3217
-    },
-    {
-      "abr": "glamouredpowerhelmet",
-      "category": "Headwear",
-      "defname": "ARR_HybridPowerHelmetGlamoured",
-      "price": 1067
-    },
-    {
       "abr": "glamouredsallet",
       "category": "Headwear",
       "defname": "ARR_SalletGlamoured",
       "price": 169
-    },
-    {
-      "abr": "glamouredscoutarmor",
-      "category": "A Rim Reborn",
-      "defname": "ARR_HybridReconArmorGlamoured",
-      "price": 2383
-    },
-    {
-      "abr": "glamouredscouthelmet",
-      "category": "Headwear",
-      "defname": "ARR_HybridReconHelmetGlamoured",
-      "price": 892
     },
     {
       "abr": "glock17",
@@ -18863,30 +18143,6 @@
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_DTHTI_SR",
       "price": 1058
-    },
-    {
-      "abr": "hybridcompoundbow",
-      "category": "Ranged weapons",
-      "defname": "ARR_HybridCompoundBow",
-      "price": 321
-    },
-    {
-      "abr": "hybridrepeater",
-      "category": "Ranged weapons",
-      "defname": "ARR_HybridRepeater",
-      "price": 717
-    },
-    {
-      "abr": "hybridrifle",
-      "category": "Ranged weapons",
-      "defname": "ARR_HybridRifle",
-      "price": 767
-    },
-    {
-      "abr": "hybridscattergun",
-      "category": "Ranged weapons",
-      "defname": "ARR_HybridScattergun",
-      "price": 375
     },
     {
       "abr": "hyur",
@@ -19079,12 +18335,6 @@
       "category": "A Rim Reborn",
       "defname": "ARR_ApparelLalafellTopMale",
       "price": 157
-    },
-    {
-      "abr": "lancer'sspear",
-      "category": "Disciple of war",
-      "defname": "ARR_Weapon_Lancer_Basic",
-      "price": 392
     },
     {
       "abr": "lightningaccumulator",
@@ -19285,22 +18535,10 @@
       "price": 675
     },
     {
-      "abr": "machinist'spistol",
-      "category": "Disciple of war",
-      "defname": "ARR_Weapon_Machinist_Basic",
-      "price": 450
-    },
-    {
       "abr": "mag-7",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_MAG7_PS",
       "price": 425
-    },
-    {
-      "abr": "marauder'saxe",
-      "category": "Disciple of war",
-      "defname": "ARR_Weapon_Marauder_Basic",
-      "price": 392
     },
     {
       "abr": "mare'sleg",
@@ -19513,12 +18751,6 @@
       "price": 708
     },
     {
-      "abr": "nothung",
-      "category": "Disciple of war",
-      "defname": "ARR_RelicWeapon_Nothung",
-      "price": 5000
-    },
-    {
       "abr": "n-papm70",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_ZPAP_AR",
@@ -19529,12 +18761,6 @@
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_NS2000_PS",
       "price": 425
-    },
-    {
-      "abr": "omnilex",
-      "category": "Disciple of magic",
-      "defname": "ARR_RelicWeapon_Omnilex",
-      "price": 5000
     },
     {
       "abr": "ots-03svu",
@@ -19621,28 +18847,10 @@
       "price": 133
     },
     {
-      "abr": "potionofunlearning",
-      "category": "Potions",
-      "defname": "ARR_PotionUnlearning",
-      "price": 83
-    },
-    {
       "abr": "potionofvitality",
       "category": "Potions",
       "defname": "ARR_PotionVitality",
       "price": 133
-    },
-    {
-      "abr": "powerarmor",
-      "category": "A Rim Reborn",
-      "defname": "ARR_HybridPowerArmor",
-      "price": 3217
-    },
-    {
-      "abr": "powerhelmet",
-      "category": "Headwear",
-      "defname": "ARR_HybridPowerHelmet",
-      "price": 1067
     },
     {
       "abr": "pp-19bizon",
@@ -19673,12 +18881,6 @@
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_PSG1_DMR",
       "price": 950
-    },
-    {
-      "abr": "pugilist'sknuckles",
-      "category": "Disciple of war",
-      "defname": "ARR_Weapon_Pugilist_Basic",
-      "price": 392
     },
     {
       "abr": "qbb-95",
@@ -19759,12 +18961,6 @@
       "price": 83
     },
     {
-      "abr": "rogue'sdaggers",
-      "category": "Disciple of war",
-      "defname": "ARR_Weapon_Rogue_Basic",
-      "price": 392
-    },
-    {
       "abr": "rpd",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_RPD_LMG",
@@ -19837,22 +19033,10 @@
       "price": 592
     },
     {
-      "abr": "scoutarmor",
-      "category": "A Rim Reborn",
-      "defname": "ARR_HybridReconArmor",
-      "price": 2383
-    },
-    {
       "abr": "scoutelite",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_SCOUTELITE_SR",
       "price": 883
-    },
-    {
-      "abr": "scouthelmet",
-      "category": "Headwear",
-      "defname": "ARR_HybridReconHelmet",
-      "price": 892
     },
     {
       "abr": "sg553",
@@ -19873,94 +19057,10 @@
       "price": 950
     },
     {
-      "abr": "soulcrystalcoffer",
-      "category": "Items",
-      "defname": "ARR_CofferSoulCrystal",
-      "price": 3333
-    },
-    {
-      "abr": "soulofthebard",
-      "category": "Soul crystals",
-      "defname": "ARR_SoulCrystal_Bard",
-      "price": 3333
-    },
-    {
-      "abr": "souloftheblackmage",
-      "category": "Soul crystals",
-      "defname": "ARR_SoulCrystal_BlackMage",
-      "price": 3333
-    },
-    {
-      "abr": "soulofthedarkknight",
-      "category": "Soul crystals",
-      "defname": "ARR_SoulCrystal_DarkKnight",
-      "price": 3333
-    },
-    {
-      "abr": "soulofthedragoon",
-      "category": "Soul crystals",
-      "defname": "ARR_SoulCrystal_Dragoon",
-      "price": 3333
-    },
-    {
-      "abr": "soulofthemachinist",
-      "category": "Soul crystals",
-      "defname": "ARR_SoulCrystal_Machinist",
-      "price": 3333
-    },
-    {
-      "abr": "soulofthemonk",
-      "category": "Soul crystals",
-      "defname": "ARR_SoulCrystal_Monk",
-      "price": 3333
-    },
-    {
-      "abr": "souloftheninja",
-      "category": "Soul crystals",
-      "defname": "ARR_SoulCrystal_Ninja",
-      "price": 3333
-    },
-    {
-      "abr": "soulofthepaladin",
-      "category": "Soul crystals",
-      "defname": "ARR_SoulCrystal_Paladin",
-      "price": 3333
-    },
-    {
-      "abr": "soulofthescholar",
-      "category": "Soul crystals",
-      "defname": "ARR_SoulCrystal_Scholar",
-      "price": 3333
-    },
-    {
-      "abr": "soulofthesummoner",
-      "category": "Soul crystals",
-      "defname": "ARR_SoulCrystal_Summoner",
-      "price": 3333
-    },
-    {
-      "abr": "soulofthewarrior",
-      "category": "Soul crystals",
-      "defname": "ARR_SoulCrystal_Warrior",
-      "price": 3333
-    },
-    {
-      "abr": "soulofthewhitemage",
-      "category": "Soul crystals",
-      "defname": "ARR_SoulCrystal_WhiteMage",
-      "price": 3333
-    },
-    {
       "abr": "spas-12",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_SPAS12_AS",
       "price": 675
-    },
-    {
-      "abr": "sphairai",
-      "category": "Disciple of war",
-      "defname": "ARR_RelicWeapon_Sphairai",
-      "price": 5000
     },
     {
       "abr": "sr-2veresk",
@@ -19991,12 +19091,6 @@
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_SSG3000_SR",
       "price": 883
-    },
-    {
-      "abr": "stardustrod",
-      "category": "Disciple of magic",
-      "defname": "ARR_RelicWeapon_StardustRod",
-      "price": 5000
     },
     {
       "abr": "stenmkii",
@@ -20057,18 +19151,6 @@
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_TAR21_AR",
       "price": 800
-    },
-    {
-      "abr": "thaumaturge'sstaff",
-      "category": "Disciple of magic",
-      "defname": "ARR_Weapon_Thaumaturge_Basic",
-      "price": 383
-    },
-    {
-      "abr": "thyrus",
-      "category": "Disciple of magic",
-      "defname": "ARR_RelicWeapon_Thyrus",
-      "price": 5000
     },
     {
       "abr": "tm-9",
@@ -20153,12 +19235,6 @@
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_VECTOR_SMG",
       "price": 675
-    },
-    {
-      "abr": "veilofwiyu",
-      "category": "Disciple of magic",
-      "defname": "ARR_RelicWeapon_VeilOfWiyu",
-      "price": 5000
     },
     {
       "abr": "vfwpdmrstation",
@@ -20281,24 +19357,6 @@
       "price": -10
     },
     {
-      "abr": "weaponcoffer(damage)",
-      "category": "Items",
-      "defname": "ARR_CofferWeaponDamage",
-      "price": 167
-    },
-    {
-      "abr": "weaponcoffer(healer)",
-      "category": "Items",
-      "defname": "ARR_CofferWeaponHealer",
-      "price": 167
-    },
-    {
-      "abr": "weaponcoffer(tank)",
-      "category": "Items",
-      "defname": "ARR_CofferWeaponTank",
-      "price": 167
-    },
-    {
       "abr": "windaccumulator",
       "category": "Misc",
       "defname": "ARR_WindAccumulator",
@@ -20315,12 +19373,6 @@
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_XM8_AR",
       "price": 800
-    },
-    {
-      "abr": "yoshimitsu",
-      "category": "Disciple of war",
-      "defname": "ARR_RelicWeapon_Yoshimitsu",
-      "price": 5000
     },
     {
       "abr": "mendingkit",
@@ -20899,587 +19951,1109 @@
       "price": -10
     },
     {
+      "abr": "bed",
+      "category": "Furniture",
+      "defname": "RGK_bedSingle",
+      "price": 155
+    },
+    {
+      "abr": "bed",
+      "category": "Furniture",
+      "defname": "RGK_bedSingleB",
+      "price": 155
+    },
+    {
+      "abr": "bench",
+      "category": "Furniture",
+      "defname": "GL_Bench",
+      "price": 358
+    },
+    {
+      "abr": "billiardstable",
+      "category": "Furniture",
+      "defname": "GL_BilliardsTable",
+      "price": 600
+    },
+    {
+      "abr": "bonfire",
+      "category": "Furniture",
+      "defname": "GL_Bonfire",
+      "price": 417
+    },
+    {
+      "abr": "bookshelf",
+      "category": "Misc",
+      "defname": "GL_Bookshelf",
+      "price": 908
+    },
+    {
+      "abr": "boundarystone",
+      "category": "Misc",
+      "defname": "GL_BoundaryWood",
+      "price": 7
+    },
+    {
+      "abr": "boundarystone",
+      "category": "Misc",
+      "defname": "GL_BoundaryStone",
+      "price": 7
+    },
+    {
+      "abr": "boundarystonecorner",
+      "category": "Misc",
+      "defname": "GL_BoundaryStoneCorner",
+      "price": 7
+    },
+    {
+      "abr": "boundarywoodcorner",
+      "category": "Misc",
+      "defname": "GL_BoundaryWoodCorner",
+      "price": 7
+    },
+    {
+      "abr": "bowl",
+      "category": "Furniture",
+      "defname": "RGK_DogBowl",
+      "price": 104
+    },
+    {
+      "abr": "bucket",
+      "category": "Furniture",
+      "defname": "RGK_bucketr",
+      "price": 87
+    },
+    {
+      "abr": "butchertable",
+      "category": "Production",
+      "defname": "GL_TableButcher",
+      "price": 279
+    },
+    {
+      "abr": "chair",
+      "category": "Furniture",
+      "defname": "RGK_Chair",
+      "price": 180
+    },
+    {
+      "abr": "chesstable",
+      "category": "Furniture",
+      "defname": "GL_ChessTable",
+      "price": 281
+    },
+    {
+      "abr": "claasicrug(3x3)",
+      "category": "Furniture",
+      "defname": "RugA_Small",
+      "price": 304
+    },
+    {
+      "abr": "claasicrug(3x3)",
+      "category": "Furniture",
+      "defname": "RugB_Small",
+      "price": 304
+    },
+    {
+      "abr": "claasicrug(3x3)",
+      "category": "Furniture",
+      "defname": "RugC_Small",
+      "price": 304
+    },
+    {
+      "abr": "claasicrug(4x4)",
+      "category": "Furniture",
+      "defname": "RugA",
+      "price": 400
+    },
+    {
+      "abr": "claasicrug(4x4)",
+      "category": "Furniture",
+      "defname": "RugB",
+      "price": 400
+    },
+    {
+      "abr": "claasicrug(4x4)",
+      "category": "Furniture",
+      "defname": "RugC",
+      "price": 400
+    },
+    {
+      "abr": "claasicrug(5x5",
+      "category": "Furniture",
+      "defname": "RugB_Large",
+      "price": 500
+    },
+    {
+      "abr": "claasicrug(5x5",
+      "category": "Furniture",
+      "defname": "RugC_Large",
+      "price": 500
+    },
+    {
+      "abr": "claasicrug(5x5)",
+      "category": "Furniture",
+      "defname": "RugA_Large",
+      "price": 500
+    },
+    {
+      "abr": "classicdoor",
+      "category": "Misc",
+      "defname": "RGK_DoorOld",
+      "price": 159
+    },
+    {
+      "abr": "classictable(2x1)",
+      "category": "Furniture",
+      "defname": "RGK_TableE",
+      "price": 367
+    },
+    {
+      "abr": "classictable(2x2)",
+      "category": "Furniture",
+      "defname": "RGK_TableB",
+      "price": 392
+    },
+    {
+      "abr": "classictable(2x2)",
+      "category": "Furniture",
+      "defname": "RGK_TableD",
+      "price": 392
+    },
+    {
+      "abr": "classictable(2x2)",
+      "category": "Furniture",
+      "defname": "RGK_TableG",
+      "price": 692
+    },
+    {
+      "abr": "classictable(3x2)",
+      "category": "Furniture",
+      "defname": "RGK_TableF",
+      "price": 650
+    },
+    {
+      "abr": "classictable(3x3)",
+      "category": "Furniture",
+      "defname": "RGK_TableH",
+      "price": 850
+    },
+    {
+      "abr": "classydoublebed",
+      "category": "Furniture",
+      "defname": "GL_ClassyDoubleBed",
+      "price": 942
+    },
+    {
+      "abr": "cupboard",
+      "category": "Misc",
+      "defname": "GL_Cupboard",
+      "price": 417
+    },
+    {
+      "abr": "diningchair",
+      "category": "Furniture",
+      "defname": "RGKDiningChair",
+      "price": 192
+    },
+    {
+      "abr": "door",
+      "category": "Misc",
+      "defname": "RGK_Door",
+      "price": 105
+    },
+    {
+      "abr": "doorframe",
+      "category": "Misc",
+      "defname": "GL_DoorFrame",
+      "price": 211
+    },
+    {
+      "abr": "doublebed",
+      "category": "Furniture",
+      "defname": "RGK_bedDouble",
+      "price": 292
+    },
+    {
+      "abr": "doublebed2",
+      "category": "Furniture",
+      "defname": "RGK_bedDoubleB",
+      "price": 292
+    },
+    {
+      "abr": "dresser",
+      "category": "Furniture",
+      "defname": "RGK_Dresser",
+      "price": 179
+    },
+    {
+      "abr": "electricsmithy",
+      "category": "Production",
+      "defname": "GL_ElectricSmithy",
+      "price": 533
+    },
+    {
+      "abr": "electricstove",
+      "category": "Production",
+      "defname": "GL_ElectricStove",
+      "price": 383
+    },
+    {
+      "abr": "electrictailorbench",
+      "category": "Production",
+      "defname": "GL_ElectricTailoringBench",
+      "price": 542
+    },
+    {
+      "abr": "endtable",
+      "category": "Furniture",
+      "defname": "RGK_EndTable",
+      "price": 106
+    },
+    {
+      "abr": "endtable",
+      "category": "Furniture",
+      "defname": "RGK_EndTableWithLamp",
+      "price": 138
+    },
+    {
+      "abr": "endtable",
+      "category": "Furniture",
+      "defname": "RGK_EndTableWithLampE",
+      "price": 185
+    },
+    {
+      "abr": "fence",
+      "category": "Misc",
+      "defname": "RGK_WoodFence",
+      "price": 18
+    },
+    {
+      "abr": "fireplace",
+      "category": "Furniture",
+      "defname": "RGK_Fireplace",
+      "price": 392
+    },
+    {
+      "abr": "fireplacee",
+      "category": "Furniture",
+      "defname": "RGK_FireplaceE",
+      "price": 408
+    },
+    {
+      "abr": "flowerwall",
+      "category": "Misc",
+      "defname": "GL_FlowerWall",
+      "price": 55
+    },
+    {
+      "abr": "fueledsmithy",
+      "category": "Production",
+      "defname": "GL_FueledSmithy",
+      "price": 367
+    },
+    {
+      "abr": "fueledstove",
+      "category": "Production",
+      "defname": "RGK_FueledStove",
+      "price": 279
+    },
+    {
+      "abr": "handtailorbench",
+      "category": "Production",
+      "defname": "GL_HandTailoringBench",
+      "price": 225
+    },
+    {
+      "abr": "jukebox",
+      "category": "Recreation",
+      "defname": "JukeBox",
+      "price": 1617
+    },
+    {
+      "abr": "lamp",
+      "category": "Furniture",
+      "defname": "RGK_lamp",
+      "price": 42
+    },
+    {
+      "abr": "lampe",
+      "category": "Furniture",
+      "defname": "RGK_lampE",
+      "price": 90
+    },
+    {
+      "abr": "lampe(white)",
+      "category": "Furniture",
+      "defname": "GL_lampE_White",
+      "price": 90
+    },
+    {
+      "abr": "lampm",
+      "category": "Furniture",
+      "defname": "RGK_LampM",
+      "price": 42
+    },
+    {
+      "abr": "lampm(white)",
+      "category": "Furniture",
+      "defname": "GL_LampM_White",
+      "price": 42
+    },
+    {
+      "abr": "lamp(white)",
+      "category": "Furniture",
+      "defname": "GL_lamp_White",
+      "price": 42
+    },
+    {
+      "abr": "locker",
+      "category": "Furniture",
+      "defname": "GL_Locker",
+      "price": 284
+    },
+    {
+      "abr": "manger",
+      "category": "Furniture",
+      "defname": "RGK_Manger",
+      "price": 254
+    },
+    {
+      "abr": "minitable",
+      "category": "Furniture",
+      "defname": "RGK_MiniTableA",
+      "price": 88
+    },
+    {
+      "abr": "minitable",
+      "category": "Furniture",
+      "defname": "RGK_MiniTableB",
+      "price": 88
+    },
+    {
+      "abr": "oakbarrel",
+      "category": "Furniture",
+      "defname": "RGK_orc",
+      "price": 87
+    },
+    {
+      "abr": "pokertable",
+      "category": "Furniture",
+      "defname": "GL_PokerTable",
+      "price": 400
+    },
+    {
       "abr": "potcoverseala",
       "category": "Furniture",
       "defname": "JDSS_Pot_Cover_SealA",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potcoversealb",
       "category": "Furniture",
       "defname": "JDSS_Pot_Cover_SealB",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potcoversealc",
       "category": "Furniture",
       "defname": "JDSS_Pot_Cover_SealC",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potcoverseald",
       "category": "Furniture",
       "defname": "JDSS_Pot_Cover_SealD",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potcoverseale",
       "category": "Furniture",
       "defname": "JDSS_Pot_Cover_SealE",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potcoversealf",
       "category": "Furniture",
       "defname": "JDSS_Pot_Cover_SealF",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potd",
       "category": "Furniture",
       "defname": "JDSS_PotD",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "pote",
       "category": "Furniture",
       "defname": "JDSS_PotE",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potf",
       "category": "Furniture",
       "defname": "JDSS_PotF",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potwoodencovera",
       "category": "Furniture",
       "defname": "JDSS_Pot_Wooden_CoverA",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potwoodencoverb",
       "category": "Furniture",
       "defname": "JDSS_Pot_Wooden_CoverB",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potwoodencoverc",
       "category": "Furniture",
       "defname": "JDSS_Pot_Wooden_CoverC",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potwoodencoverd",
       "category": "Furniture",
       "defname": "JDSS_Pot_Wooden_CoverD",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potwoodencovere",
       "category": "Furniture",
       "defname": "JDSS_Pot_Wooden_CoverE",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potwoodencoverf",
       "category": "Furniture",
       "defname": "JDSS_Pot_Wooden_CoverF",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potwoodencoverseala",
       "category": "Furniture",
       "defname": "JDSS_Pot_Wooden_Cover_SealA",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potwoodencoversealb",
       "category": "Furniture",
       "defname": "JDSS_Pot_Wooden_Cover_SealB",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potwoodencoversealb",
       "category": "Furniture",
       "defname": "JDSS_Pot_Wooden_Cover_SealD",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potwoodencoversealc",
       "category": "Furniture",
       "defname": "JDSS_Pot_Wooden_Cover_SealC",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potwoodencoverseale",
       "category": "Furniture",
       "defname": "JDSS_Pot_Wooden_Cover_SealE",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "potwoodencoversealf",
       "category": "Furniture",
       "defname": "JDSS_Pot_Wooden_Cover_SealF",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "refrigeratedcargocontainerblack",
       "category": "Furniture",
       "defname": "JDSS_Refrigerated_Cargo_Container_Black",
-      "price": -10
+      "price": 1225
     },
     {
       "abr": "refrigeratedcargocontainerblue",
       "category": "Furniture",
       "defname": "JDSS_Refrigerated_Cargo_Container_Blue",
-      "price": -10
+      "price": 1225
     },
     {
       "abr": "refrigeratedcargocontainergreen",
       "category": "Furniture",
       "defname": "JDSS_Refrigerated_Cargo_Container_Green",
-      "price": -10
+      "price": 1225
     },
     {
       "abr": "refrigeratedcargocontainerred",
       "category": "Furniture",
       "defname": "JDSS_Refrigerated_Cargo_Container_Red",
-      "price": -10
+      "price": 1225
     },
     {
       "abr": "refrigeratedcargocontaineryellow",
       "category": "Furniture",
       "defname": "JDSS_Refrigerated_Cargo_Container_Yellow",
-      "price": -10
+      "price": 1225
     },
     {
       "abr": "reinforcedwall(embrasured)",
       "category": "Misc",
       "defname": "GL_HeavyWallEmb",
-      "price": -10
+      "price": 68
+    },
+    {
+      "abr": "replicaflower",
+      "category": "Furniture",
+      "defname": "RGK_Flower",
+      "price": 46
     },
     {
       "abr": "sacka",
       "category": "Furniture",
       "defname": "JDSS_SackA",
-      "price": -10
+      "price": 31
     },
     {
       "abr": "sackb",
       "category": "Furniture",
       "defname": "JDSS_SackB",
-      "price": -10
+      "price": 66
     },
     {
       "abr": "sackc",
       "category": "Furniture",
       "defname": "JDSS_SackC",
-      "price": -10
+      "price": 104
     },
     {
       "abr": "sackd",
       "category": "Furniture",
       "defname": "JDSS_SackD",
-      "price": -10
+      "price": 156
+    },
+    {
+      "abr": "shelf",
+      "category": "Furniture",
+      "defname": "GL_Shelf",
+      "price": 154
     },
     {
       "abr": "shippingcratea",
       "category": "Furniture",
       "defname": "JDSS_Shipping_CrateA",
-      "price": -10
+      "price": 22
     },
     {
       "abr": "shippingcrateb",
       "category": "Furniture",
       "defname": "JDSS_Shipping_CrateB",
-      "price": -10
+      "price": 123
     },
     {
       "abr": "shippingcratec",
       "category": "Furniture",
       "defname": "JDSS_Shipping_CrateC",
-      "price": -10
+      "price": 145
     },
     {
       "abr": "shippingcrated",
       "category": "Furniture",
       "defname": "JDSS_Shipping_CrateD",
-      "price": -10
+      "price": 63
     },
     {
       "abr": "shippingcratee",
       "category": "Furniture",
       "defname": "JDSS_Shipping_CrateE",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "shippingcratef",
       "category": "Furniture",
       "defname": "JDSS_Shipping_CrateF",
-      "price": -10
+      "price": 28
     },
     {
       "abr": "silo",
       "category": "Furniture",
       "defname": "JDSS_Silo",
-      "price": -10
+      "price": 383
+    },
+    {
+      "abr": "simplechair",
+      "category": "Furniture",
+      "defname": "RGK_SimpleChair",
+      "price": 87
+    },
+    {
+      "abr": "simpleresearchbench",
+      "category": "Production",
+      "defname": "RGK_SimpleResearchBench",
+      "price": 350
     },
     {
       "abr": "sterilewallgloomy",
       "category": "Misc",
       "defname": "GL_SterileWall",
-      "price": -10
+      "price": 45
     },
     {
       "abr": "storageshed",
       "category": "Furniture",
       "defname": "JDSS_Storage_Shed",
-      "price": -10
+      "price": 1033
     },
     {
       "abr": "storagetote",
       "category": "Furniture",
       "defname": "JDSS_Storage_Tote",
-      "price": -10
+      "price": 84
+    },
+    {
+      "abr": "streetlamp",
+      "category": "Misc",
+      "defname": "RGK_Street_Lamp_L",
+      "price": 111
+    },
+    {
+      "abr": "streetlamp",
+      "category": "Misc",
+      "defname": "RGK_Street_Lamp",
+      "price": 111
+    },
+    {
+      "abr": "streetlamp",
+      "category": "Misc",
+      "defname": "RGK_Street_Lamp_Seven",
+      "price": 111
+    },
+    {
+      "abr": "streetlampe",
+      "category": "Misc",
+      "defname": "RGK_Street_Lamp_SevenE",
+      "price": 142
+    },
+    {
+      "abr": "streetlampe(white)",
+      "category": "Misc",
+      "defname": "GL_Street_Lamp_White",
+      "price": 111
+    },
+    {
+      "abr": "streetlampe(white)",
+      "category": "Misc",
+      "defname": "GL_Street_Lamp_SevenE_White",
+      "price": 142
+    },
+    {
+      "abr": "streetlamp(white)",
+      "category": "Misc",
+      "defname": "GL_Street_Lamp_L_White",
+      "price": 111
+    },
+    {
+      "abr": "streetlamp(white)",
+      "category": "Misc",
+      "defname": "GL_Street_Lamp_Seven_White",
+      "price": 111
+    },
+    {
+      "abr": "table(2x2)",
+      "category": "Furniture",
+      "defname": "RGK_TableA",
+      "price": 176
+    },
+    {
+      "abr": "table(2x2)",
+      "category": "Furniture",
+      "defname": "RGK_TableC",
+      "price": 229
+    },
+    {
+      "abr": "tablewareshelf",
+      "category": "Misc",
+      "defname": "GL_TablewareShelf",
+      "price": 279
+    },
+    {
+      "abr": "teaset",
+      "category": "Furniture",
+      "defname": "RGK_Teaset",
+      "price": 67
+    },
+    {
+      "abr": "teddybear",
+      "category": "Furniture",
+      "defname": "GL_Teddy",
+      "price": 67
+    },
+    {
+      "abr": "tubetelevision",
+      "category": "Recreation",
+      "defname": "GL_TubeTelevision",
+      "price": 625
+    },
+    {
+      "abr": "ventwall",
+      "category": "Misc",
+      "defname": "RGK_VentWall",
+      "price": 18
+    },
+    {
+      "abr": "ventwall",
+      "category": "Misc",
+      "defname": "GL_VentWall",
+      "price": 18
+    },
+    {
+      "abr": "wall",
+      "category": "Misc",
+      "defname": "RGK_Wall",
+      "price": 11
+    },
+    {
+      "abr": "wall",
+      "category": "Misc",
+      "defname": "GL_Wall",
+      "price": 18
+    },
+    {
+      "abr": "ppkcamisoledress",
+      "category": "Misc",
+      "defname": "Apparel_PPKCamisoleDress",
+      "price": 130
+    },
+    {
+      "abr": "ppkcatearhood",
+      "category": "Headgear",
+      "defname": "Apparel_PPKCatEarHood",
+      "price": 203
+    },
+    {
+      "abr": "ppkcatpajamas",
+      "category": "Misc",
+      "defname": "Apparel_PPKCatPajama",
+      "price": 130
+    },
+    {
+      "abr": "ppkdinohood",
+      "category": "Headgear",
+      "defname": "Apparel_PPKDinoHood",
+      "price": 203
+    },
+    {
+      "abr": "ppkdinopajamas",
+      "category": "Misc",
+      "defname": "Apparel_PPKDinoPajama",
+      "price": 130
+    },
+    {
+      "abr": "ppkformalonepiece",
+      "category": "Misc",
+      "defname": "Apparel_PPKFormalOnePiece",
+      "price": 130
+    },
+    {
+      "abr": "ppkfurcoat",
+      "category": "Misc",
+      "defname": "Apparel_PPKFurCoat",
+      "price": 172
+    },
+    {
+      "abr": "ppkkidshoodie",
+      "category": "Misc",
+      "defname": "Apparel_PPKKidsHoodie",
+      "price": 172
+    },
+    {
+      "abr": "ppkkidssuit",
+      "category": "Misc",
+      "defname": "Apparel_PPKKidsSuit",
+      "price": 130
+    },
+    {
+      "abr": "ppkknitvest",
+      "category": "Misc",
+      "defname": "Apparel_PPKKnitVest",
+      "price": 130
+    },
+    {
+      "abr": "ppkmedievalboy",
+      "category": "Misc",
+      "defname": "Apparel_PPKMedievalBoy",
+      "price": 130
+    },
+    {
+      "abr": "ppkmedievalgirl",
+      "category": "Misc",
+      "defname": "Apparel_PPKMedievalGirl",
+      "price": 130
+    },
+    {
+      "abr": "ppkppkbordershirt",
+      "category": "Misc",
+      "defname": "Apparel_PPKBorderShirt",
+      "price": 130
+    },
+    {
+      "abr": "ppkppksummerhoodie",
+      "category": "Misc",
+      "defname": "Apparel_PPKSummerHoodie",
+      "price": 172
+    },
+    {
+      "abr": "ppkskirtleggings",
+      "category": "Misc",
+      "defname": "Apparel_PPKSkirtLeggings",
+      "price": 130
+    },
+    {
+      "abr": "shortwall",
+      "category": "Misc",
+      "defname": "VFEP_ShortWalls",
+      "price": 14
+    },
+    {
+      "abr": "walllamp",
+      "category": "Misc",
+      "defname": "GL_Wall_Lamp",
+      "price": 74
+    },
+    {
+      "abr": "walllampe",
+      "category": "Misc",
+      "defname": "GL_Wall_LampE",
+      "price": 74
+    },
+    {
+      "abr": "walllampe(white)",
+      "category": "Misc",
+      "defname": "GL_Wall_LampE_White",
+      "price": 74
+    },
+    {
+      "abr": "walllamp(white)",
+      "category": "Misc",
+      "defname": "GL_Wall_Lamp_White",
+      "price": 74
+    },
+    {
+      "abr": "wardrobe",
+      "category": "Furniture",
+      "defname": "WardrobeA",
+      "price": 417
+    },
+    {
+      "abr": "wardrobe",
+      "category": "Furniture",
+      "defname": "WardrobeB",
+      "price": 433
     },
     {
       "abr": "weaponcabinetsa",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsA",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsb",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsB",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsc",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsC",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsd",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsD",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetse",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsE",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsf",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsF",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsg",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsG",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsh",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsH",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsi",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsI",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsj",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsJ",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsk",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsK",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsl",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsL",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsm",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsM",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsn",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetN",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetso",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsO",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsp",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsP",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsq",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsQ",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsr",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsR",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetss",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsS",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetst",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsT",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsu",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsU",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsv",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsV",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsw",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsW",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsx",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsX",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsy",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsY",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "weaponcabinetsz",
       "category": "Furniture",
       "defname": "JDSS_Weapon_CabinetsZ",
-      "price": -10
+      "price": 256
+    },
+    {
+      "abr": "window",
+      "category": "Furniture",
+      "defname": "RGK_window",
+      "price": 17
+    },
+    {
+      "abr": "windowwall",
+      "category": "Misc",
+      "defname": "RGK_WindowWall",
+      "price": 34
+    },
+    {
+      "abr": "windowwall",
+      "category": "Misc",
+      "defname": "GL_WindowWall",
+      "price": 34
+    },
+    {
+      "abr": "winerack",
+      "category": "Furniture",
+      "defname": "RKGWineRackB",
+      "price": 185
     },
     {
       "abr": "woodenbarrela",
       "category": "Furniture",
       "defname": "JDSS_WoodenA",
-      "price": -10
+      "price": 22
     },
     {
       "abr": "woodenbarrelopen",
       "category": "Furniture",
       "defname": "JDSS_Wooden_Barrel_Open",
-      "price": -10
+      "price": 22
     },
     {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "BedGuest",
-      "price": -10
+      "abr": "ppkbranch",
+      "category": "Utility",
+      "defname": "Apparel_PPKBranch",
+      "price": 17
     },
     {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "DoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestroyalbed",
-      "category": "Furniture",
-      "defname": "RoyalBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guesthospitalbed",
-      "category": "Furniture",
-      "defname": "HospitalBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestbedroll",
-      "category": "Furniture",
-      "defname": "BedrollGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdoublebedroll",
-      "category": "Furniture",
-      "defname": "BedrollDoubleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestancientbed",
-      "category": "Misc",
-      "defname": "AncientBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "SlabBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestslabdoublebed",
-      "category": "Furniture",
-      "defname": "SlabDoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdeathrestcasket",
-      "category": "Misc",
-      "defname": "DeathrestCasketGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestcrib",
-      "category": "Furniture",
-      "defname": "CribGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestre-ambulationpod",
-      "category": "Furniture",
-      "defname": "ambTableGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "Bed_StoneSlabGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestsimplebed",
-      "category": "Furniture",
-      "defname": "Bed_SimpleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_ErgonomicGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomicGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestroyalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_KingsizeGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "RGK_bedSingleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "RGK_bedSingleBGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "RGK_bedDoubleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdoublebed2",
-      "category": "Furniture",
-      "defname": "RGK_bedDoubleBGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestclassydoublebed",
-      "category": "Furniture",
-      "defname": "GL_ClassyDoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestoperatingtable",
-      "category": "Furniture",
-      "defname": "Bed_OperatingTableGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestcryptosleepsuspender",
-      "category": "Furniture",
-      "defname": "Bed_CryptoBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestadvancedbed",
-      "category": "Furniture",
-      "defname": "Bed_AdvBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestadvanceddoublebed",
-      "category": "Furniture",
-      "defname": "Bed_AdvDoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestandroidstand",
-      "category": "Misc",
-      "defname": "VREA_AndroidStandGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestneutrocasket",
-      "category": "Furniture",
-      "defname": "VREA_NeutroCasketGuest",
-      "price": -10
+      "abr": "ppkplushie",
+      "category": "Utility",
+      "defname": "Apparel_PPKPlushie",
+      "price": 89
     }
   ],
-  "total": 3580
+  "total": 3509
 }

@@ -46055,8 +46055,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1,
       "degree": 1,
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [],
@@ -46077,8 +46077,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1,
       "degree": -1,
       "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
       "stats": [],
@@ -46095,120 +46095,6 @@
       },
       "defName": "HAR_Xenophobia",
       "name": "xenophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy is clumsy at manipulating aether. he can never hope to learn advanced jobs.",
-      "stats": [
-        "-1 maximum job count"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-1 maximum job count"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "A Rim Reborn - Classes and Jobs",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ARR_ClassOffset",
-      "name": "inept"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy is talented at manipulating aether. he can learn more classes than normal.",
-      "stats": [
-        "+1 maximum class count",
-        "+1 maximum job count"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+1 maximum class count",
-          "+1 maximum job count"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "A Rim Reborn - Classes and Jobs",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ARR_ClassOffset",
-      "name": "adept"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy has weak aether reserves. he cannot cast magic as often or as effectively as others.",
-      "stats": [
-        "-2000 magic points",
-        "x90% aetherial incantation",
-        "x90% aetherial geometry"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-2000 magic points",
-          "x90% aetherial incantation",
-          "x90% aetherial geometry"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "A Rim Reborn - Classes and Jobs",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ARR_MagicPointOffset",
-      "name": "stifled"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy has voluminous aether reserves. he can cast magic with greater ease and potency than others.",
-      "stats": [
-        "+2000 magic points",
-        "x110% aetherial incantation",
-        "x110% aetherial geometry"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+2000 magic points",
-          "x110% aetherial incantation",
-          "x110% aetherial geometry"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "A Rim Reborn - Classes and Jobs",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ARR_MagicPointOffset",
-      "name": "wellspring"
     }
   ],
   "races": [

@@ -262,7 +262,7 @@
 	},
 	{
 		"abr": "reviveme",
-		"price": 9000,
+		"price": 10000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -277,7 +277,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Neutral"
 	},
 	{
